@@ -1,4 +1,4 @@
-# Creative Theme for Jekyll
+This repository contains static web site contents on www.lilei.tech , which powerd by *Jekyll*.
 
 A Jekyll implementation of the [Creative Theme](http://startbootstrap.com/template-overviews/creative/) template by [Start Bootstrap](http://startbootstrap.com).
 
