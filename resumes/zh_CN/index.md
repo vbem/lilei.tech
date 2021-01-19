@@ -50,7 +50,7 @@
 - 核心项目：
     - 参与阿里云[飞天5K](https://tech.huanqiu.com/article/9CaKrnJCQaV)项目，负责团队内部测试机、开发机迁移上云，内部提交云控制台Bug四次，半年内完成团队所有非生产服务器上云。
     - 基于RobotFramework关键字技术及[ODPS](https://www.aliyun.com/product/odps/)的接口开发了通用的全类目商家数据接口测试基础库，加速测试工程自动化测试开发过程。
-    - 开发基于Durpal构建了Web自动化测试平台，赋能开发工程师自测。
+    - 开发了基于Durpal构建的Web自动化测试平台，赋能开发工程师自测。
 - 成绩: 
     - 2013年度·淘宝数据质量部·技术尖兵称号
 
