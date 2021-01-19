@@ -24,9 +24,9 @@
 - 技术栈: *AWS云*、*阿里云*、*K8S*、*CI/CD*、*Python*等
 - 职责：作为技术团队主管，负责整体技术架构设计、核心模块开发、跨团队技术沟通、新技术调研、标准规范落地、工程师招聘培养考核等工作。
 - 核心项目: 
-    - 作为基础设施主管将集团大数据平台[落地AWS云](https://www.amazonaws.cn/customer-stories/media-and-entertainment/opg/)。作为集团接口人为东方明珠集团实现[APN高级资质](https://partners.amazonaws.com/cn/partners/0010L00001qzOH4QAM)。
-    - 带领后端研发组，推动基于SpringBoot/SpringCloud的微服务改造，从零搭建DevOps工具链、实现代码化的CI/CD及基于K8S的云原生化，并摆脱了对[供应商的依赖](http://blog.daocloud.io/cusstory-dongming/)。负责集团级DevOps部分工具平台建设和推广。
-    - 带领数据平台团队实现数据接入技术标准制定、服务端集群搭建、客户端工具开发，实现多子公司数据统一方案接入数据湖。推动集团内[开源项目](https://github.com/opgcn)。
+    - 作为基础设施主管将集团大数据平台[落地AWS云](https://www.amazonaws.cn/customer-stories/media-and-entertainment/opg/)。作为集团接口人为东方明珠集团实现[AWS-APN高级资质](https://partners.amazonaws.com/cn/partners/0010L00001qzOH4QAM)。
+    - 带领后端研发组，推动基于SpringBoot/SpringCloud的微服务改造，从零搭建DevOps工具链、实现代码化的CI/CD及基于K8S的云原生化，并逐步摆脱了对[供应商](http://blog.daocloud.io/cusstory-dongming/)的依赖。负责集团级DevOps部分工具平台建设和推广。
+    - 带领数据平台团队实现数据接入标准制定、数据湖建设、客户端开发，实现多子公司数据统一方案接入数据湖。推动集团内[开源项目](https://github.com/opgcn)。
 - 成绩：
     - 2018年度·东方明珠集团·总裁奖
     - 2019年度·中国电视技术学会·科学进步奖
@@ -46,10 +46,11 @@
 - 部门: *淘宝 - 商家数据质量部*
 - 职位: *资深高级工程师(P6)*
 - 技术栈: *Python*、*PHP*、*阿里云*、*ODPS*等
-- 职责: 负责团队内部阿里云上云落地、内部工具开发、淘宝网对商家数据接口测试等工作。
+- 职责: 负责团队内部阿里云落地、内部工具开发、淘宝网对商家数据接口测试等工作。
 - 核心项目：
     - 参与阿里云[飞天5K](https://tech.huanqiu.com/article/9CaKrnJCQaV)项目，负责团队内部测试机、开发机迁移上云，内部提交云控制台Bug四次，半年内完成团队所有非生产服务器上云。
-    - 基于RobotFramework关键字技术及[ODPS](https://www.aliyun.com/product/odps/)的接口开发了通用的全类目商家数据接口测试基础库，并基于Durpal构建了Web自动化测试平台，赋能开发工程师自测。
+    - 基于RobotFramework关键字技术及[ODPS](https://www.aliyun.com/product/odps/)的接口开发了通用的全类目商家数据接口测试基础库，加速测试工程自动化测试开发过程。
+    - 开发基于Durpal构建了Web自动化测试平台，赋能开发工程师自测。
 - 成绩: 
     - 2013年度·淘宝数据质量部·技术尖兵称号
 
@@ -62,6 +63,7 @@
 - 职责: 负责内部工具开发、测试平台搭建、人才招聘等工作。
 - 核心项目：
     - 负责网页搜索测试部内部“先知”平台，先后完成20+个工具的设计、开发、推广、维护工作。
+    - 参与开发百度质量部测试基础库开发，完成了分布式网页信息库检索包、单页面反作弊单元测试包等项目。
     - 独立负责“[百度知心](https://baike.baidu.com/item/%E7%99%BE%E5%BA%A6%E7%9F%A5%E5%BF%83/12015195)药品数据挖掘”项目研发，离线对接多家药品知识库和第三方供应商，通过[阿拉丁平台](https://open.baidu.com/#/)直接在百度搜索结果页首页中优先[展示优质供应商结果](https://www.baidu.com/s?wd=%E9%80%9F%E6%95%88%E4%BC%A4%E9%A3%8E%E8%83%B6%E5%9B%8A)。
 - 成绩: 
     - 两年内完成T3-T4-T5晋升。
