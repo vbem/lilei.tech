@@ -25,7 +25,7 @@
 - 职责：作为技术团队主管，负责整体技术架构设计、核心模块开发、跨团队技术沟通、新技术调研、标准规范落地、工程师招聘培养考核等工作。
 - 核心项目: 
     - 作为基础设施主管将集团大数据平台[落地AWS云](https://www.amazonaws.cn/customer-stories/media-and-entertainment/opg/)。作为集团接口人为东方明珠集团实现[AWS-APN高级资质](https://partners.amazonaws.com/cn/partners/0010L00001qzOH4QAM)。
-    - 带领后端研发组，推动基于SpringBoot/SpringCloud的微服务改造，从零搭建DevOps工具链、实现代码化的CI/CD及基于K8S的云原生化，并逐步摆脱了对[供应商](http://blog.daocloud.io/cusstory-dongming/)的依赖。负责集团级DevOps部分工具平台建设和推广。
+    - 带领后端研发组，推动微服务改造，从零搭建DevOps工具链、实现代码化的CI/CD及基于K8S的云原生化，并逐步摆脱了对[供应商](http://blog.daocloud.io/cusstory-dongming/)的依赖。负责集团级DevOps部分工具平台建设和推广。
     - 带领数据平台团队实现数据接入标准制定、数据湖建设、客户端开发，实现多子公司数据统一方案接入数据湖。推动集团内[开源项目](https://github.com/opgcn)。
 - 成绩：
     - 2018年度·东方明珠集团·总裁奖
