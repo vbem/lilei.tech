@@ -85,9 +85,7 @@
 - 2008/9–2011/4, 南京邮电大学, 信号与信息处理, 工学硕士, 专业排名Top 10%
 - 2004/4–2008/6, 南京邮电大学, 通信工程, 工学学士, 专业排名Top 10%
 
-本科期间多次获得校级和企业奖学金，担任校大学生科协计算机部副部长，参与校科协[开源镜像站点](https://mirrors.njupt.edu.cn/)维护，组织Canonical Ubuntu校园推广活动等；
-
-多次获得校[校优秀研究生](/resumes/resources/Excellent-Graduate.jpg)、各级奖学金等荣誉。获得全国研究生数学建模竞赛[GMCM一等奖](/resumes/resources/gmcm.jpg)（全国第4名）（作为Team Leader）。进行认知无线网络算法研究和开发，参与两个国家级项目，在国内外发表论文5篇（IEEE EI检索两篇[A](https://ieeexplore.ieee.org/document/5633440/)、[B](https://ieeexplore.ieee.org/document/5702986)）。
+本科期间多次获得校级和企业奖学金，担任校大学生科协计算机部副部长，参与校科协[开源镜像站点](https://mirrors.njupt.edu.cn/)维护，组织Canonical Ubuntu校园推广活动等；研究生期间进行认知无线网络算法研究和开发，参与两个国家级项目，在国内外发表论文5篇（IEEE EI检索两篇[A](https://ieeexplore.ieee.org/document/5633440/)、[B](https://ieeexplore.ieee.org/document/5702986)），多次获得校[校优秀研究生](/resumes/resources/Excellent-Graduate.jpg)、各级奖学金等荣誉。获得全国研究生数学建模竞赛[GMCM一等奖](/resumes/resources/gmcm.jpg)（全国第4名）（作为Team Leader）。
 
 ## 职业规划
 
@@ -95,7 +93,7 @@
 
 ## 爱好及特长
 
-- 热爱运动，拥有乒乓球科班功底，曾担任百度乒乓球协会副会长；2011、2012年获得百度质量部男单冠军；2012、2013年代表百度获得上地软件园区团体冠军；2014年担任北京公益乒乓球俱乐部理事；2017、2018、2019年获SMG上海文广集团单子单打前三。
+- 热爱运动，拥有乒乓球科班功底，曾担任百度乒乓球协会副会长；2011、2012年获得百度质量部男单冠军；2012、2013年代表百度获得上地软件园区团体冠军；2017、2018、2019年获SMG上海文广集团单子单打前三。
 
 ----------
 
