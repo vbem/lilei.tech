@@ -30,7 +30,7 @@ Basic Info. | - | Basic Info. | - | Basic Info. | - |
     - Leading the data platform team to achieve the tech standard of data access, construction of data lake, development of client-side SDK, achieving unified data lake of multiple subsidiaries. Also I promoted the [open-source](https://github.com/opgcn) of partial general components of the group.
 - Achievements：
     - President Award of Oriental Pearl Group in 2018
-    - Science Progress Award of China Television Technology Academy in 2019
+    - [Science Progress Award](/resumes/resources/Science-Progress-Award.jpg) of China Television Technology Academy in 2019
 
 ### 2014/09 - 2016/09
 
