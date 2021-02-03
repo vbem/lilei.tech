@@ -11,13 +11,13 @@ Basic Info. | - | Basic Info. | - | Basic Info. | - |
 
 ## Personal Introduction
 
-- I have ten years experience for Internet software development, including 5 years technical management experience. I have worked for China’s top companies of Internet, e-commerce and new-media, and be responsible for or participated in the architecture design, R&D, testing and implementation of software systems.
+- I have ten years experience for Internet software development, including 5 years technical management experience. I have worked for China’s top companies of Internet, e-commerce and new-media, where I was responsible for or participated in the architecture design, R&D, testing and implementation of software systems.
 - I am familiar with the systematic approach of software R&D and its life cycle management, as well as the management experience in development, testing and operating teams.
 - I am proficient in Solution Architecture under the cloud native scene, DevOps designing and landing, besides public cloud admin and DevOps hands-on works under multi-cloud, multi-business-domain and multi-deployment-environments.
 
 ## Work Experience
 
-### 2016/10 - Now
+### 2016/10 - Present
 
 - Company: [Oriental Pearl Group Co., Ltd.](https://www.opg.cn/) (Listed Corporation)
 - Department: *Academy/Cloud Computing Center - [Data Service Dept.](https://ds.opg.cn/)*
@@ -26,8 +26,8 @@ Basic Info. | - | Basic Info. | - | Basic Info. | - |
 - Responsibility: as leader of several technical teams, I am responsible for the overall technical architecture designing, core module development, cross-teams technical communication, new technology research, tech specification landing, recruitment - training - KPI assessment of engineers and other related works.
 - Key Projects: 
     - As the manager of infrastructure team, [landing the big data platform of group on AWS](https://www.amazonaws.cn/customer-stories/media-and-entertainment/opg/). As the liaison officer of Oriental Pearl Group to achieve the [advanced AWS-APN qualification](https://partners.amazonaws.com/cn/partners/0010L00001qzOH4QAM). 
-    - Leading the back-end R&D team, promoting the transformation of micro-service, building DevOps tool chain from scratch, achieving CI/CD as code and the cloud native technical reconstruction. Meanwhile get free from technology dependencies from our [vendors](http://blog.daocloud.io/cusstory-dongming/). Be responsible for the construction and promotion of DevOps tools to other teams.
-    - Leading the data platform team to achieve the tech standard of data access, construction of data lake, development of client-side SDK, achieving unified data lake of multiple subsidiaries. Also I promoted the [open-source](https://github.com/opgcn) of partial general components of the group.
+    - Leading the back-end R&D team, promoting the transformation of micro-service, building DevOps tool chain from scratch, achieving CI/CD as code and the cloud native technical reconstruction, while being free from technology dependencies from our [vendors](http://blog.daocloud.io/cusstory-dongming/). Being responsible for the construction and promotion of DevOps tools to other teams.
+    - Leading the data platform team to achieve the tech standard of data access, construction of data lake, development of client-side SDK, achieving unified data lake of multiple subsidiaries. Promoting the [open-source](https://github.com/opgcn) of partial general components of the group.
 - Achievements：
     - President Award of Oriental Pearl Group in 2018
     - [Science Progress Award](/resumes/resources/Science-Progress-Award.jpg) of China Television Technology Academy in 2019
@@ -38,7 +38,7 @@ Basic Info. | - | Basic Info. | - | Basic Info. | - |
 - Department: *Technology Dept.*
 - Position: *Manager*
 - Tech-Stack: *Python*, *C/C++*, *Qt*, *Aliyun*, etc.
-- Responsibility: As the "CTO" of [our start-up team](https://kuaibao.qq.com/s/20180518A16AE600), be responsible for the development of simulation software of hydro-mechanics, the construction of R&D team, software upgrading, [patent writing](https://xueshu.baidu.com/usercenter/paper/show?paperid=1q0n0tx0w13d0xp0ya2m0c50dg724799) and other technical works.
+- Responsibility: As the "CTO" of [our start-up team](https://kuaibao.qq.com/s/20180518A16AE600), who is responsible for the development of simulation software of hydro-mechanics, the construction of R&D team, software upgrading, [patent writing](https://xueshu.baidu.com/usercenter/paper/show?paperid=1q0n0tx0w13d0xp0ya2m0c50dg724799) and other technical works.
 - Achievements:
   - Leading the micro-technical team to complete the research and development of casting-process simulation, ship designing simulation, environmental simulation, the clients including Manufacturing R&D Enterprises, Ship Design Companies, University Research Unit, and the total amount of sales reached more than 1 million yuan.
   - Assisting the company to gain the Leading Project in Suzhou City, and the Mass Entrepreneurship and Innovation Project Fund of Jiangsu Province.
@@ -47,13 +47,13 @@ Basic Info. | - | Basic Info. | - | Basic Info. | - |
 
 - Company: [Alibaba](https://www.alibabagroup.com/) (Beijing Branch)
 - Department: *Taobao - Merchants Data Quality Dept.*
-- Position: *Senior Engineer (P6)*
+- Position: *Senior Engineer (P6+)*
 - Tech-Stack: *Python*, *PHP*, *Aliyun*, *ODPS*, etc.
-- Responsibility: Be responsible for intra Aliyun landing in the team, development of internal tools, and auto-test libraries for Taobao merchants data API.
+- Responsibility: Internal Aliyun cloud-landing in the team, development of internal tools, and auto-test libraries for Taobao merchants data API.
 - Key Projects:
-    - Participated the well-known [5K Project](https://tech.huanqiu.com/article/9CaKrnJCQaV) of Aliyun, be responsible for the migration on cloud of testing and developing servers of our dept.，submitting the Bug of Cloud control panel for four times, and completing all the migration within half a year.
-    - Based on the RobotFramework keyword technology and the API of [ODPS](https://www.aliyun.com/product/odps/), developed a general basic library of full-category merchant data API testing, accelerated test-cases developing efficiency for our QA engineers.
-    - Developed a web-based automated test platform based on Durpal to support the self testing for R&D engineers. 
+    - Participating the well-known [5K Project](https://tech.huanqiu.com/article/9CaKrnJCQaV) of Aliyun, be responsible for the migration on cloud of testing and developing servers of our dept.，submitting the Bug of Cloud control panel for four times, and completing all the migration within half a year.
+    - Using RobotFramework keywords and the API of [ODPS](https://www.aliyun.com/product/odps/), developing a general basic library of full-category merchant data API testing, which accelerated test-cases developing efficiency for our QA engineers.
+    - Developing a web-based automated test platform based on Durpal to support the self testing for R&D engineers.
 - Achievements: 
     - Technology Pioneer of Taobao-Merchants Data Quality Department in 2013
 
@@ -65,12 +65,12 @@ Basic Info. | - | Basic Info. | - | Basic Info. | - |
 - Technology Stack: *Python*, *C/C++*, *MySQL*, and other intra middleware of Baidu, etc.
 - Responsibility: Development of internal tools, construction of testing platform, talent recruitment and other related works.
 - Key Projects:
-    - Be responsible for a unified testing Platform, and responsible for designing, development, promotion and maintainance of about 20 tools.
+    - Being responsible for a unified testing Platform, and responsible for designing, development, promotion and maintainance of about 20 tools.
     - Participating in the development of testing base library of Baidu Quality Department, completing the projects such as retrieval package of distributed web information base, anti-spam unit test package in single page and so on.
-    - Be independently responsible for the R&D of"[Baidu Zhixin](https://baike.baidu.com/item/%E7%99%BE%E5%BA%A6%E7%9F%A5%E5%BF%83/12015195) medicine data-mining project". With data aggregation of  multiple offline medicine knowledge bases and third-party suppliers, qualified suppliers are [preferentially shown](https://www.baidu.com/s?wd=%E9%80%9F%E6%95%88%E4%BC%A4%E9%A3%8E%E8%83%B6%E5%9B%8A) in the first page of Baidu searching results page through [Aladdin platform](https://open.baidu.com/#/).
+    - Being independently responsible for the R&D of "[Baidu Zhixin](https://baike.baidu.com/item/%E7%99%BE%E5%BA%A6%E7%9F%A5%E5%BF%83/12015195) medicine data-mining project". With data aggregation of  multiple offline medicine knowledge bases and third-party suppliers, qualified suppliers are [preferentially shown](https://www.baidu.com/s?wd=%E9%80%9F%E6%95%88%E4%BC%A4%E9%A3%8E%E8%83%B6%E5%9B%8A) in the first page of Baidu searching results page through [Aladdin platform](https://open.baidu.com/#/).
 - Achievements:
     - Promotion from T3 to T4 to T5 within 2 years.
-    - Successively awarding the Star of QA, Quality Expert in Baidu QA and Technology Pioneer (the highest award of Technology Class of QA Dept. in Baidu).
+    - Successively being awarded the Star of QA, Quality Expert in Baidu QA and Technology Pioneer (the highest award of Technology Class of QA Dept. in Baidu).
 
 ## Certifications
 
@@ -82,19 +82,18 @@ Basic Info. | - | Basic Info. | - | Basic Info. | - |
 
 ## Educational Background
 
-- 2008/9–2011/4, the Master of Engineering majored in SIP (signal and information processing) in Nanjing University of Posts and Telecommunications, the specialist ranked Top 10%.
-- 2004/4–2008/6, the Bachelor of Engineering majored in Communication Engineering in Nanjing University of Posts and Telecommunications, the specialist ranked Top 10%. 
+- 2008/9–2011/4, the Master of Engineering majored in SIP (signal and information processing) in Nanjing University of Posts and Telecommunications, ranking within the top 10%.
+- 2004/4–2008/6, the Bachelor of Engineering majored in Communication Engineering in Nanjing University of Posts and Telecommunications, ranking within the top 10%.
 
-During the period of undergraduate, I have awarded the school-level and enterprise scholarship for many times, and I served as the vice minister of Information Technology Department of University Science & Technology Association Forum, I also participated in the [Open Source Mirror Server](https://mirrors.njupt.edu.cn/) Maintenance, organized the Canonical Ubuntu Campus Promotion Activities, ect. During the period of postgraduate, I conducted the research and development of Cognitive Wireless Network Algorithms, participated in two nation-level projects, published 5 articles in China and abroad (including two [link-A](https://ieeexplore.ieee.org/document/5633440/) and [link-B](https://ieeexplore.ieee.org/document/5702986) articles through IEEE EI searching), I awarded School Excellent Postgraduate for many time and scholarships of all levels and other honors. I won the [first prize of GMCM](/resumes/resources/gmcm.jpg) (No. 4 of the nation) as the team leader.
+During the period of undergraduate, I was awarded the academic and enterprise scholarship for many times, and I served as the vice minister of Information Technology Department of University Science & Technology Association Forum, I also participated in the [Open Source Mirror Server](https://mirrors.njupt.edu.cn/) Maintenance, organized the Canonical Ubuntu Campus Promotion Activities, ect. During the period of postgraduate, I conducted the research and development of Cognitive Wireless Network Algorithms, participated in two nation-level projects, published 5 articles in China and abroad (including two [link-A](https://ieeexplore.ieee.org/document/5633440/) and [link-B](https://ieeexplore.ieee.org/document/5702986) articles through IEEE EI searching), I was awarded School Excellent Postgraduate for many time and scholarships of all levels as well as other honors. I won the [first prize of GMCM](/resumes/resources/gmcm.jpg) (No. 4 of the nation) as the team leader.
 
 ## Career Planning
 
-> Become an excellent engineer with professional technology, be amiable between colleagues, be reliable on projects and be happy in life.
+> Become an engineer with great expertise. Be amiable among colleagues, reliable on projects and happy in life.
 
 ## Hobbies
 
-- I have a passion for sports, and have the foundation of table tennis. I served as vice president of Baidu Table Tennis Association. I won the champion of Men's Singles of Baidu Quality in 2011 and 2012. I represented Baidu to win the champion of Shangdi Software Park Group in 2012 and 2013. I won the top-three prize in Men’s Singles Competition of SMG Shanghai Media Group in 2017, 2018 and 2019.
-
+- I have a passion for sports, especially for table tennis. I served as vice president of Baidu Table Tennis Association. I won the champion of Men's Singles of Baidu Quality in 2011 and 2012. I represented Baidu to win the champion of Shangdi Software Park Group in 2012 and 2013. I ranked the third in Men’s Singles Competition of SMG Shanghai Media Group in 2017, 2018 and 2019.
 
 ----------
 
