@@ -11,7 +11,7 @@ Basic Info. | - | Basic Info. | - | Basic Info. | - |
 
 ## Personal Introduction
 
-- I have ten years experience for Internet software development, including 5 years technical management experience. I have worked for China’s top companies of Internet, e-commerce and new-media, where I was responsible for or participated in the architecture design, R&D, testing and implementation of software systems.
+- I have ten years' experience for Internet software development, including 5 years technical management experience. I have worked for China’s top companies of Internet, e-commerce and new-media, where I was responsible for or participated in the architecture design, R&D, testing and implementation of software systems.
 - I am familiar with the systematic approach of software R&D and its life cycle management, as well as the management experience in development, testing and operating teams.
 - I am proficient in Solution Architecture under the cloud native scene, DevOps designing and landing, besides public cloud admin and DevOps hands-on works under multi-cloud, multi-business-domain and multi-deployment-environments.
 
