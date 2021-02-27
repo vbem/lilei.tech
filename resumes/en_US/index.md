@@ -59,7 +59,7 @@ Basic Info. | - | Basic Info. | - | Basic Info. | - |
 - Responsibilities:
   - Participate in the well-known [5K Project](https://tech.huanqiu.com/article/9CaKrnJCQaV) of Ali-Cloud, be responsible for the migration on cloud of testing and developing servers of our dept.
   - Using RobotFramework keywords and the API of [ODPS](https://www.aliyun.com/product/odps/), develop a general basic library of full-category merchant data API testing, which accelerated test-cases developing efficiency for our QA engineers.
-  - Develop a web-based automated test platform based on Durpal to support the self-testing of R&D engineers.
+  - Develop a web-based automated test platform based on Drupal to support the self-testing of R&D engineers.
 - Achievements: 
     - Technology Pioneer of Taobao-Merchants Data Quality Department in 2013
 
