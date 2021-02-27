@@ -11,7 +11,6 @@ Basic Info. | - | Basic Info. | - | Basic Info. | - |
 
 ## Summary
 
-- 10 years' experience for R&D, including 5 years technical management experience. With both back-end developing and team management backgrouds, I have worked for China’s top companies of Internet, e-commerce and new-media. 
 - 10 years' experience for IT technology, including 5 years team leader experience, worked for China’s top companies of Internet, e-commerce and new-media.
 - Being proficient in Cloud, DevOps, Kubernetes architecture design and hands-on operations, with both back-end developing and team leadership experiences.
 
