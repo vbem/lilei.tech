@@ -12,8 +12,8 @@ Basic Info. | - | Basic Info. | - | Basic Info. | - |
 ## Summary
 
 - 10 years' experience for IT technology, including 5 years team leader experience, worked for China’s top companies of Internet, e-commerce and new-media.
-- Being proficient in Cloud, DevOps, Kubernetes architecture design and hands-on operations, with both back-end developing and team leadership experiences.
-
+- Deep understanding on Enterprises Digital Transformation, with solid experience on Cloud, DevOps, Servitization landing in traditional enterprise from scratch.
+- Being proficient in Cloud-Solution, DevOps, Kubernetes architecture design and hands-on operations, with both back-end developing and team leadership experiences.
 
 ## Work Experience
 
