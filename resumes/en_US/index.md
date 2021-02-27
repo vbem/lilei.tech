@@ -9,10 +9,12 @@ Basic Info. | - | Basic Info. | - | Basic Info. | - |
 **Tel.** | [`+86-173-1235-0801`](/img/vcard.png) | **E-mail** | i@lilei.tech | **WeChat** | [stdlib](/img/wechat.png)
 **Educational Background** | Master of Engineering | **Work Experience** | Software Development for 10 years | **Direction** | *Cloud Solution Architect* / *DevOps* / *K8S*
 
-## Personal Introduction
+## Summary
 
 - 10 years' experience for R&D, including 5 years technical management experience. With both back-end developing and team management backgrouds, I have worked for China’s top companies of Internet, e-commerce and new-media. 
-- Being proficient in Cloud Solutions, DevOps, Kubernetes. I have both hands-on and project-driven experience for promoting the system to cloud, achieving CI/CD as code and the K8S containerization, under multi-cloud (AWS & Ali-Cloud), multi-business-domain and multi-deployment-environments.
+- 10 years' experience for IT technology, including 5 years team leader experience, worked for China’s top companies of Internet, e-commerce and new-media.
+- Being proficient in Cloud, DevOps, Kubernetes architecture design and hands-on operations, with both back-end developing and team leadership experiences.
+
 
 ## Work Experience
 
@@ -22,14 +24,21 @@ Basic Info. | - | Basic Info. | - | Basic Info. | - |
 - Department: *Academy/Cloud Computing Center - [Data Service Dept.](https://ds.opg.cn/)*
 - Position: *Senior Manager* (Level-12)
 - Tech-Stack: *AWS*, *Aliyun*, *K8S*, *CI/CD*, *Python*, etc.
-- Responsibility: as leader of several technical teams, I am responsible for the overall technical architecture designing, core module development, cross-teams technical communication, new technology research, tech specification landing, recruitment - training - KPI assessment of engineers and other related works.
-- Key Projects: 
-    - As the manager of infrastructure team, [landing the big data platform of group on AWS](https://www.amazonaws.cn/customer-stories/media-and-entertainment/opg/). As the liaison officer of Oriental Pearl Group to achieve the [advanced AWS-APN qualification](https://partners.amazonaws.com/cn/partners/0010L00001qzOH4QAM). 
-    - Leading the back-end R&D team, promoting the transformation of micro-service, building DevOps tool chain from scratch, achieving CI/CD as code and the cloud native technical reconstruction, while being free from technology dependencies from our [vendors](http://blog.daocloud.io/cusstory-dongming/). Being responsible for the construction and promotion of DevOps tools to other teams.
-    - Leading the data platform team to achieve the tech standard of data access, construction of data lake, development of client-side SDK, achieving unified data lake of multiple subsidiaries. Promoting the [open-source](https://github.com/opgcn) of partial general components of the group.
+- Responsibilities:
+  - As a part of Digital Transformation, [introduce DevOps to this enterprise](http://blog.daocloud.io/cusstory-dongming/) from scratch.
+  - As a team leader, [land the big data platform of group on AWS](https://www.amazonaws.cn/customer-stories/media-and-entertainment/opg/) from scratch.
+  - As the liaison officer of Oriental Pearl Group to achieve the advanced [AWS-APN qualification](https://partners.amazonaws.com/cn/partners/0010L00001qzOH4QAM).
+  - Land several systems on Ali-Cloud and realizing their containerization in Ali-Container-Service-of-Kubernetes (aka ACK) with end-to-end CI/CD automation.
+  - Build enterprise-level DevOps tools chain ([GitLab](https://gitlab.opg.cn/), [Jira](https://j.opg.cn/), [Confluence](https://c.opg.cn/), Nexus, Docker-Registry, GitLab-Runner, Apollo-Config-Server etc.).
+  - Define and optimize and promote DevOps workflow and plan for several Dev teams.
+  - Lead a small back-end Dev team, promote the transformation of micro-service.
+  - Lead the big-data engine-platform team to achieve the tech standard of data access, construction of data lake, development of client-side SDK, achieving unified data lake of multiple subsidiaries.
+  - Promote the [open-source](https://github.com/opgcn) of partial general components of this enterprise.
+  - As the Sr. Manager role, I am also responsible for the overall technical architecture designing, core module development, cross-teams technical communication, new technology research, tech specification landing, recruitment & training, KPI assessment of engineers and other related works.
 - Achievements：
     - President Award of Oriental Pearl Group in 2018
     - [Science Progress Award](/resumes/resources/Science-Progress-Award.jpg) of China Television Technology Academy in 2019
+    - Promotion from Sr. Engineer to Manager to Sr. Manager within 4 years in a traditional government-owned enterprise all by personal working ability.
 
 ### 2014/09 - 2016/09
 
@@ -37,9 +46,9 @@ Basic Info. | - | Basic Info. | - | Basic Info. | - |
 - Department: *Technology Dept.*
 - Position: *Manager*
 - Tech-Stack: *Python*, *C/C++*, *Qt*, *Aliyun*, etc.
-- Responsibility: As the "CTO" of [our start-up team](https://kuaibao.qq.com/s/20180518A16AE600), who is responsible for the development of simulation software of hydro-mechanics, the construction of R&D team, software upgrading, [patent writing](https://xueshu.baidu.com/usercenter/paper/show?paperid=1q0n0tx0w13d0xp0ya2m0c50dg724799) and other technical works.
+- Responsibilities: As a technical co-founder of a start-up team, I am responsible for the development of simulation software of hydro-mechanics, the construction of R&D team, software upgrading, [patent writing](https://xueshu.baidu.com/usercenter/paper/show?paperid=1q0n0tx0w13d0xp0ya2m0c50dg724799) and other technical works.
 - Achievements:
-  - Leading the micro-technical team to complete the research and development of casting-process simulation, ship designing simulation, environmental simulation, the clients including Manufacturing R&D Enterprises, Ship Design Companies, University Research Unit, and the total amount of sales reached more than 1 million yuan.
+  - Leading the technical team to complete the research and development of casting-process simulation, ship designing simulation, environmental simulation, the clients including Manufacturing R&D Enterprises, Ship Design Companies, University Research Unit, and the total amount of sales reached more than 1 million yuan.
   - Assisting the company to gain the Leading Project in Suzhou City, and the Mass Entrepreneurship and Innovation Project Fund of Jiangsu Province.
 
 ### 2013/07 - 2014/08
@@ -48,11 +57,10 @@ Basic Info. | - | Basic Info. | - | Basic Info. | - |
 - Department: *Taobao - Merchants Data Quality Dept.*
 - Position: *Senior Engineer (P6+)*
 - Tech-Stack: *Python*, *PHP*, *Aliyun*, *ODPS*, etc.
-- Responsibility: Internal Aliyun cloud-landing in the team, development of internal tools, and auto-test libraries for Taobao merchants data API.
-- Key Projects:
-    - Participating the well-known [5K Project](https://tech.huanqiu.com/article/9CaKrnJCQaV) of Aliyun, be responsible for the migration on cloud of testing and developing servers of our dept.，submitting the Bug of Cloud control panel for four times, and completing all the migration within half a year.
-    - Using RobotFramework keywords and the API of [ODPS](https://www.aliyun.com/product/odps/), developing a general basic library of full-category merchant data API testing, which accelerated test-cases developing efficiency for our QA engineers.
-    - Developing a web-based automated test platform based on Durpal to support the self testing for R&D engineers.
+- Responsibilities:
+  - Participate in the well-known [5K Project](https://tech.huanqiu.com/article/9CaKrnJCQaV) of Ali-Cloud, be responsible for the migration on cloud of testing and developing servers of our dept.
+  - Using RobotFramework keywords and the API of [ODPS](https://www.aliyun.com/product/odps/), develop a general basic library of full-category merchant data API testing, which accelerated test-cases developing efficiency for our QA engineers.
+  - Develop a web-based automated test platform based on Durpal to support the self-testing of R&D engineers.
 - Achievements: 
     - Technology Pioneer of Taobao-Merchants Data Quality Department in 2013
 
@@ -62,11 +70,10 @@ Basic Info. | - | Basic Info. | - | Basic Info. | - |
 - Department: *Page Searching - QA Dept.*
 - Position: *Senior Engineer (T5)*
 - Technology Stack: *Python*, *C/C++*, *MySQL*, and other intra middleware of Baidu, etc.
-- Responsibility: Development of internal tools, construction of testing platform, talent recruitment and other related works.
-- Key Projects:
-    - Being responsible for a unified testing Platform, and responsible for designing, development, promotion and maintainance of about 20 tools.
-    - Participating in the development of testing base library of Baidu Quality Department, completing the projects such as retrieval package of distributed web information base, anti-spam unit test package in single page and so on.
-    - Being independently responsible for the R&D of "[Baidu Zhixin](https://baike.baidu.com/item/%E7%99%BE%E5%BA%A6%E7%9F%A5%E5%BF%83/12015195) medicine data-mining project". With data aggregation of  multiple offline medicine knowledge bases and third-party suppliers, qualified suppliers are [preferentially shown](https://www.baidu.com/s?wd=%E9%80%9F%E6%95%88%E4%BC%A4%E9%A3%8E%E8%83%B6%E5%9B%8A) in the first page of Baidu searching results page through [Aladdin platform](https://open.baidu.com/#/).
+- Responsibilities:
+  - Be responsible for a unified testing Platform. Design, development and maintenance about 20 internal QA-tools, such as retrieval package of distributed web information base, anti-spam unit test package in single page and etc.
+  - Participate in the development of testing base library of Baidu.
+  - Be independently responsible for the R&D of "[Baidu Zhixin](https://baike.baidu.com/item/%E7%99%BE%E5%BA%A6%E7%9F%A5%E5%BF%83/12015195) medicine data-mining project". With data aggregation of multiple offline medicine knowledge bases and third-party suppliers, qualified suppliers are [preferentially shown](https://www.baidu.com/s?wd=%E9%80%9F%E6%95%88%E4%BC%A4%E9%A3%8E%E8%83%B6%E5%9B%8A) in the first page of Baidu searching results page through Aladdin platform.
 - Achievements:
     - Promotion from T3 to T4 to T5 within 2 years.
     - Successively being awarded the Star of QA, Quality Expert in Baidu QA and Technology Pioneer (the highest award of Technology Class of QA Dept. in Baidu).
