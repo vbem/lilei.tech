@@ -98,7 +98,7 @@ During the period of undergraduate, I was awarded the academic and enterprise sc
 
 ## Hobbies
 
-- I have a passion for sports, especially for table tennis. I served as vice president of Baidu Table Tennis Association. I won the champion of Men's Singles of Baidu Quality in 2011 and 2012. I represented Baidu to win the champion of Shangdi Software Park Group in 2012 and 2013. I ranked the third in Men’s Singles Competition of SMG Shanghai Media Group in 2017, 2018 and 2019.
+- I have a passion for sports, especially for table tennis. I served as vice president of Baidu Table Tennis Association. I won the champion of Men's Singles of Baidu Quality in 2011 and 2012. I represented Baidu to win the champion of Shangdi Software Park Group in 2012 and 2013. I ranked the third in [Men’s Singles Competition of SMG Shanghai Media Group](https://mp.weixin.qq.com/s/RFV3O30EYg2ftDJyGFNNhw) in 2017, 2018 and 2019.
 
 ----------
 
