@@ -105,7 +105,7 @@ During the period of postgraduate, I conducted the research and development of C
 
 - 2004/4–2008/6, the [Bachelor of Engineering](/resumes/resources/bachelor-degree.jpg) majored in Communication Engineering in Nanjing University of Posts and Telecommunications, ranking within the top 10%.
 
-During the period of undergraduate, I was awarded the academic and enterprise scholarship for many times, and I served as the vice minister of Information Technology Department of University Science & Technology Association Forum, I also participated in the [Open Source Mirror Server](https://mirrors.njupt.edu.cn/) Maintenance, organized the Canonical Ubuntu Campus Promotion Activities, ect. 
+During the period of undergraduate, I was awarded the academic and enterprise scholarship for many times, and I served as the vice minister of Information Technology Department of University Science & Technology Association Forum, I also participated in the [Open Source Mirror Server](https://mirrors.njupt.edu.cn/) Maintenance, organized the Canonical Ubuntu Campus Promotion Activities, etc. 
 
 ## Career Planning
 
