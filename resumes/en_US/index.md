@@ -109,7 +109,7 @@ During the period of undergraduate, I was awarded the academic and enterprise sc
 
 ## Career Planning
 
-> Become an engineer with great expertise. Be amiable among colleagues, reliable on projects and happy in life.
+- According to my [PI behavioral report](/resumes/resources/piba.pdf) (Predictive Index Behavioral Assessment), I expect to become an engineer with great expertise, be amiable among colleagues, reliable on projects and happy in life.
 
 ## Hobbies
 
