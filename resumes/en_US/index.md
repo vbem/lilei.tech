@@ -109,7 +109,10 @@ During the period of undergraduate, I was awarded the academic and enterprise sc
 
 ## Career Planning
 
-- According to my [PI behavioral report](/resumes/resources/piba.pdf) (Predictive Index Behavioral Assessment), I expect to become an engineer with great expertise, be amiable among colleagues, reliable on projects and happy in life.
+- I expect to become an engineer with great expertise, be amiable among colleagues, reliable on projects and happy in life.
+- Personality Tests:
+  - [PI Behavioral Assessment Report](/resumes/resources/piba.pdf)
+  - [16Personalities Profile](https://www.16personalities.com/profiles/04fc4a6b967ca)
 
 ## Hobbies
 
