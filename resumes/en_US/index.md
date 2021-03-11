@@ -43,7 +43,7 @@
   - Build the enterprise-level DevOps chain ([GitLab](https://gitlab.opg.cn/), [Jira](https://j.opg.cn/), [Confluence](https://c.opg.cn/), Nexus, Docker-Registry, GitLab-Runner, Apollo-Config-Server etc.).
   - Define and optimize and spread DevOps workflow for several Dev teams.
   - Lead a small back-end Dev team, promote the transformation of micro-service.
-  - Lead the big-data platform Dev team to achieve the tech standard of data access, construction of data lake, development of client-side SDK, achieving unified data lake for multiple subsidiaries in this enterprise.
+  - Lead the big-data platform Dev team to achieve the tech standard of data gathering, construction of data lake, development of client-side SDK, achieving unified data lake for multiple subsidiaries in this enterprise.
   - Drive [open-source](https://github.com/opgcn) of partial general components of this enterprise.
   - As the Sr. Manager role, I am also responsible for the overall technical architecture designing, core module development, cross-teams technical communication, new technology research, tech specification landing, recruitment & training, task decomposition, KPI assessment of engineers and other related works.
 - Achievements：
