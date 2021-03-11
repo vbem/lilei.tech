@@ -110,9 +110,7 @@ During the period of undergraduate, I was awarded the academic and enterprise sc
 ## Career Planning
 
 - I expect to become an engineer with great expertise, be amiable among colleagues, reliable on projects and happy in life.
-- Personality Tests:
-  - [PI Behavioral Assessment Report](/resumes/resources/piba.pdf)
-  - [16Personalities Profile](https://www.16personalities.com/profiles/04fc4a6b967ca)
+- My personality-test reports: [PI Behavioral Assessment](/resumes/resources/piba.pdf) / [16Personalities Profile](https://www.16personalities.com/profiles/04fc4a6b967ca) / [Truity MBTI Report](/resumes/resources/Truity-MBTI.pdf) / [Truity Enneagram](/resumes/resources/Truity-Enneagram.pdf)
 
 ## Hobbies
 
