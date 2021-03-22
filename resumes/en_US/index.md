@@ -26,7 +26,7 @@
   - Deep understanding on Orchestration & IaC (Infrastructure as Code), with practical experience on K8S resource files, GitLab CI/CD files, Jenkins-files, CloudFormation, and etc.
 - Team leadership:
   - Task decomposition, cross-team collaboration, tech specification definition, recruitment & training, KPI assessments, team building, etc.
-  - Experience on agile development, building Jira platform for product owner and scrum master, join sprint-planning, daily-standup, sprint-review meetings as engineering lead role.
+  - Experience on agile development, setting up Jira platform for product owner and scrum master, participation in sprint-planning, daily-standup, sprint-review meetings as engineering lead role.
 - Languages: Mandarin (native), English ([CET-6](/resumes/resources/cet6.jpg), working-well) 
 
 ## Work Experiences
@@ -48,10 +48,10 @@
   - Lead the big-data platform Dev team to achieve the tech standard of data gathering, construction of data lake, development of client-side SDK, achieving unified data lake for multiple subsidiaries in this enterprise.
   - Drive [open-source](https://github.com/opgcn) of partial general components of this enterprise.
   - As the Sr. Manager role, I am also responsible for the overall technical architecture designing, core module development, cross-teams technical communication, new technology research, tech specification landing, recruitment & training, task decomposition, KPI assessment of engineers and other related works.
-- Achievements：
-    - President Award of Oriental Pearl Group in 2018
-    - [Science Progress Award](/resumes/resources/Science-Progress-Award.jpg) of China Television Technology Academy in 2019
-    - Promotion from Sr. Engineer to Manager to Sr. Manager within 4 years in a traditional government-owned enterprise, all by personal working ability.
+- Achievements:
+  - President Award of Oriental Pearl Group in 2018
+  - [Science Progress Award](/resumes/resources/Science-Progress-Award.jpg) of China Television Technology Academy in 2019
+  - Promotion from Sr. Engineer to Manager to Sr. Manager within 4 years in a traditional government-owned enterprise, all by personal working ability.
 
 ### 2014/09 - 2016/09
 
@@ -88,8 +88,8 @@
   - Participate in the development of testing base library of Baidu.
   - Be independently responsible for the R&D of "[Baidu Zhixin](https://baike.baidu.com/item/%E7%99%BE%E5%BA%A6%E7%9F%A5%E5%BF%83/12015195) medicine data-mining project". With data aggregation of multiple offline medicine knowledge bases and third-party suppliers, qualified suppliers are [preferentially shown](https://www.baidu.com/s?wd=%E9%80%9F%E6%95%88%E4%BC%A4%E9%A3%8E%E8%83%B6%E5%9B%8A) in the first page of Baidu searching results page through Aladdin platform.
 - Achievements:
-    - Promotion from T3 to T4 to T5 within 2 years.
-    - Successively being awarded the Star of QA, Quality Expert in Baidu QA and Technology Pioneer (the highest tech award of QA Dept. in Baidu).
+  - Promotion from T3 to T4 to T5 within 2 years.
+  - Successively being awarded the Star of QA, Quality Expert in Baidu QA and Technology Pioneer (the highest tech award of QA Dept. in Baidu).
 
 ## Certifications
 
