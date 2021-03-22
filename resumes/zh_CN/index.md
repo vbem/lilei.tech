@@ -1,18 +1,32 @@
-# 李雷的个人简历
+# 李雷
 
-- ![photo][base64avatar]
+| 招聘 | 基本信息 |
+| :-: | :-: |
+| ![avatar][base64avatar] | *电话*: [+86-173-1235-0801](/img/vcard.png)<br/>*邮件*: i@lilei.tech<br/>*微信*: [stdlib](/img/wechat.png)<br/>工学硕士<br/>在职，上海<br/>10年工作经验，其中5年技术管理和Lead经验<br/>*擅长方向*: **云解决方案架构** / **DevOps** / **Kubernetes** |
 
-基本信息 | 值 | 基本信息 | 值 | 基本信息 | 值
----- | ---- | ---- | ---- | ---- | ----
-**姓名** | 李雷 | **性别** | 男 | **出生年份** | 1986
-**所在地** | 上海 | **婚姻状况** | 已婚 | **目前在职** | 是
-**电话** | [`+86-173-1235-0801`](/img/vcard.png) | **邮件** | i@lilei.tech | **微信** | [stdlib](/img/wechat.png)
-**学历** | 工学硕士 | **工作经验** | 软件研发10年 | **擅长方向** | *云计算* / *DevOps* / *K8S*
+## 概要
 
-## 个人简介
-
-- 10年研发经验，其中5年技术Lead经验；有后端开发背景，有技术团队管理经验，先后任职于国内顶级的互联网、电商、新媒体公司；
-- 擅长云计算、DevOps、K8S；作为一线工程师和团队负责人，拥有多团队、多业务、多环境场景下，业务从0到1上云（AWS和阿里云），从无到有实现DevOps，并K8S容器化改造的丰富实战经验；
+- 10年工作经验，其中5年技术管理和Lead经验，先后供职于国内顶级互联网、电商、新媒体企业。
+- 熟悉企业数字化转型，拥有从0到1的系统上云、DevOps化、容器服务化经验。
+- 拥有云丰富的解决方案、DevOps、Kubernetes落地的实操经验和技术管理经验。
+- 云计算:
+  - 熟悉云计算落地过程中的最佳实践和成本优化；
+  - 拥有AWS云的丰富经验, 个人持有[AWS Certified Solutions Architect (Professional)](/resumes/resources/AWS-Certified-Solutions-Architect-Professional-certificate-lilei.pdf)（AWS云计算最高认证）、[AWS Certified Solutions Architect (Associate)](/resumes/resources/AWS-Certified-Solutions-Architect-Associate-certificate-lilei.pdf)、[AWS Certified SysOps Administrator (Associate)](/resumes/resources/AWS-Certified-SysOps-Administrator-Associate-certificate-lilei.pdf)认证证书；
+  - 拥有实现[AWS企业合作伙伴级高级资质](https://partners.amazonaws.com/cn/partners/0010L00001qzOH4QAM)的实战经验；
+  - 拥有阿里云落地的丰富实战经验，持有[Aliyun Certified Cloud Computing Engineer (Professional)](https://www.lilei.tech/resumes/resources/Alibaba-Cloud-Certified-Professional-lilei.jpg)个人认证；
+  - 拥有同多个云供应商销售、售前技术、售后技术沟通协作的丰富经验；
+- DevOps:
+  - 拥有[传统企业从0到1引入并落地DevOps自动化](https://www.sohu.com/a/235822585_684389)的实战经验；
+  - 拥有多云、多环境、多团队协作场景下，实现端到端从代码到自动化部署GitOps的丰富实战经验；
+  - 拥有从0搭建完整DevOps工具链（GitLab, Jira, Confluence, Nexus, Docker-Registry, GitLab-Runner, Apollo-Config-Server 等）的实操经验；
+  - 拥有K8S集群中通过ING, EP, DS, Job, HPA, cluster-autoscaler, CRD等特性承载多套微服务系统的丰富经验
+- 编码:
+  - 拥有多年Python开发经验；
+  - 拥有管理后端开发团队的经验；
+  - 深入理解编排和基础设施即代码（IaC）并拥有落地经验；
+- 技术管理: 
+  - 拥有任务分解、跨团队协作、技术标准制定、招聘、培训、考核的管理经验；
+- 语言: 熟练使用英文进行技术文档的撰写和沟通
 
 ## 工作经历
 
@@ -22,39 +36,42 @@
 - 部门: *研究院/云计算中心 - [数据服务部](https://ds.opg.cn/)*
 - 职位: *高级经理*（12级）
 - 技术栈: *AWS云*、*阿里云*、*K8S*、*CI/CD*、*Python*等
-- 职责：作为技术团队主管，负责整体技术架构设计、核心模块开发、跨团队技术沟通、新技术调研、标准规范落地、工程师招聘培养考核等工作。
-- 核心项目: 
-    - 作为基础设施主管将集团大数据平台[落地AWS云](https://www.amazonaws.cn/customer-stories/media-and-entertainment/opg/)。作为集团接口人为东方明珠集团实现[AWS-APN企业级合作伙伴资质](https://partners.amazonaws.com/cn/partners/0010L00001qzOH4QAM)。
-    - 带领后端研发组，推动微服务改造，从零搭建DevOps工具链、实现代码化的CI/CD及基于K8S的云原生化，并逐步摆脱了对[供应商](http://blog.daocloud.io/cusstory-dongming/)的依赖。负责集团级DevOps部分工具平台建设和推广。
-    - 带领数据平台团队实现数据接入标准制定、数据湖建设、客户端开发，实现多个子公司数据统一方式接入数据湖。推动集团内[部分通用组件开源](https://github.com/opgcn)。
+- 职责：
+  - 作为技术团队主管, [负责数据平台从0到1的落地AWS云](https://www.amazonaws.cn/customer-stories/media-and-entertainment/opg/)；
+  - 作为公司接口人, 实现[企业级AWS APN合作伙伴资质](https://partners.amazonaws.com/cn/partners/0010L00001qzOH4QAM)；
+  - [引入DevOps并落地](http://blog.daocloud.io/cusstory-dongming/)，动手搭建和维护DevOps工具链（[GitLab](https://gitlab.opg.cn/), [Jira](https://j.opg.cn/), [Confluence](https://c.opg.cn/), Nexus, Docker-Registry, GitLab-Runner, Apollo-Config-Server 等等），为多个团队定义和优化DevOps工作流；
+  - 采用[GitLab Pipelines](https://docs.gitlab.com/ee/ci/introduction/#a-deeper-look-into-the-cicd-workflow)实现K8S集群中应用系统的全流程GitOps；
+  - 带领一个小型后端开发团队，实现系统微服务化改造；
+  - 带领数据平台后端团队，指定数据采集规范，统一化数据湖，开发客户端SDK；
+  - 维护[公司开源项目组织](https://github.com/opgcn)；
+  - 作为技术经理，同时负责团队整体技术规划、任务分解、跨团队合作、新技术调研、招聘、培训、KPI考核等工作。
 - 成绩：
-    - 2018年度·东方明珠集团·总裁奖
-    - 2019年度·中国电视技术学会·[科学进步奖](/resumes/resources/Science-Progress-Award.jpg)
+  - 2018年度·东方明珠集团·总裁奖
+  - 2019年度·中国电视技术学会·[科学进步奖](/resumes/resources/Science-Progress-Award.jpg)
 
 ### 2014/09 - 2016/09
 
 - 公司: [墨华高科信息技术有限公司](https://baike.baidu.com/item/%E8%8B%8F%E5%B7%9E%E5%A2%A8%E5%8D%8E%E9%AB%98%E7%A7%91%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8)（创业公司）
 - 部门: *技术部*
-- 职位: *技术部经理*
+- 职位: *经理*
 - 技术栈: *Python*、*C/C++*、*Qt*、*阿里云*等
-- 职责: 作为初创团队的[技术合伙人](https://kuaibao.qq.com/s/20180518A16AE600)负责公司流体力学仿真软件的开发、技术团队构建、产品升级、[专利撰写](https://xueshu.baidu.com/usercenter/paper/show?paperid=1q0n0tx0w13d0xp0ya2m0c50dg724799)等技术工作。
+- 职责: 作为初创团队的技术合伙人负责公司流体力学仿真软件的开发、技术团队构建、产品升级、[专利撰写](https://xueshu.baidu.com/usercenter/paper/show?paperid=1q0n0tx0w13d0xp0ya2m0c50dg724799)等技术工作。
 - 成绩:
   - 带领微型技术团队完成压铸过程仿真、船舶设计仿真、环境仿真三套流体力学仿真软件的研发，客户包括制造业研发企业、船舶设计企业、高校研究单位。销售额达100余万元。
   - 协助公司获得苏州市领军项目、江苏省双创项目基金。
-
+  
 ### 2013/07 - 2014/08
 
 - 公司: [阿里巴巴](https://www.alibabagroup.com/)（北京分公司）
 - 部门: *淘宝网 - 商家数据质量部*
 - 职位: *资深高级工程师(P6)*
 - 技术栈: *Python*、*PHP*、*阿里云*、*ODPS*等
-- 职责: 负责团队内部阿里云落地、内部工具开发、淘宝网对商家数据接口测试等工作。
-- 核心项目：
-    - 参与阿里云[飞天5K](https://tech.huanqiu.com/article/9CaKrnJCQaV)项目，负责团队内部测试机、开发机迁移上云，内部提交云控制台Bug四次，半年内完成团队所有非生产服务器上云。
-    - 基于RobotFramework关键字技术及[ODPS](https://www.aliyun.com/product/odps/)的接口开发了通用的全类目商家数据接口测试基础库，赋能测试工程师的加速测试用例开发效率。
-    - 开发了基于Durpal构建的Web自动化测试平台，赋能开发工程师自测。
+- 职责: 
+  - 参与阿里云[飞天5K](https://tech.huanqiu.com/article/9CaKrnJCQaV)项目，负责团队内部测试机、开发机迁移上云。
+  - 基于RobotFramework关键字技术及[ODPS](https://www.aliyun.com/product/odps/)的接口开发了通用的全类目商家数据接口测试基础库，赋能测试工程师的加速测试用例开发效率。
+  - 开发了基于Durpal构建的Web自动化测试平台，赋能开发工程师自测。
 - 成绩: 
-    - 2013年度·淘宝数据质量部·技术尖兵称号
+  - 2013年度·淘宝数据质量部·技术尖兵称号
 
 ### 2011/04 - 2013/07
 
@@ -62,14 +79,13 @@
 - 部门: *网页搜索 - 质量部*
 - 职位: *高级工程师(T5)*
 - 技术栈: *Python*, *C/C++*, *MySQL*, 其它百度内部中间件等
-- 职责: 负责内部工具开发、测试平台搭建、人才招聘等工作。
-- 核心项目：
-    - 负责网页搜索测试部内部“先知”平台，先后完成20+个工具的设计、开发、推广、维护工作。
-    - 参与开发百度质量部测试基础库开发，完成了分布式网页信息库检索包、单页面反作弊单元测试包等项目。
-    - 独立负责“[百度知心](https://baike.baidu.com/item/%E7%99%BE%E5%BA%A6%E7%9F%A5%E5%BF%83/12015195)药品数据挖掘”项目研发，离线对接多家药品知识库和第三方供应商，通过[阿拉丁平台](https://open.baidu.com/#/)直接在百度搜索结果页首页中优先[展示优质供应商结果](https://www.baidu.com/s?wd=%E9%80%9F%E6%95%88%E4%BC%A4%E9%A3%8E%E8%83%B6%E5%9B%8A)。
+- 职责: 
+  - 负责网页搜索测试部内部“先知”平台，先后完成20+个工具的设计、开发、推广、维护工作。
+  - 参与开发百度质量部测试基础库开发，完成了分布式网页信息库检索包、单页面反作弊单元测试包等项目。
+  - 独立负责“[百度知心](https://baike.baidu.com/item/%E7%99%BE%E5%BA%A6%E7%9F%A5%E5%BF%83/12015195)药品数据挖掘”项目研发，离线对接多家药品知识库和第三方供应商，通过[阿拉丁平台](https://open.baidu.com/#/)直接在百度搜索结果页首页中优先[展示优质供应商结果](https://www.baidu.com/s?wd=%E9%80%9F%E6%95%88%E4%BC%A4%E9%A3%8E%E8%83%B6%E5%9B%8A)。
 - 成绩: 
-    - 两年内完成T3-T4-T5晋升。
-    - 先后获得百度质量部季度之星称号，获得百度质量部质量达人、技术尖兵称号（百度QA岗技术类最高荣誉）。
+  - 两年内完成T3-T4-T5晋升。
+  - 先后获得百度质量部季度之星称号，获得百度质量部质量达人、技术尖兵称号（百度QA岗技术类最高荣誉）。
 
 ## 技术认证
 
@@ -92,7 +108,7 @@
 
 ## 爱好及特长
 
-- 热爱运动，拥有乒乓球科班功底，曾担任百度乒乓球协会副会长；2011、2012年获得百度质量部男单冠军；2012、2013年代表百度获得上地软件园区团体冠军；2017、2018、2019年获SMG上海文广集团单子单打前三。
+- 热爱运动，拥有乒乓球功底，曾担任百度乒乓球协会副会长；2011、2012年获得百度质量部男单冠军；2012、2013年代表百度获得上地软件园区团体冠军；2017、2018、2019年获SMG上海文广集团单子单打前三。
 
 ----------
 
