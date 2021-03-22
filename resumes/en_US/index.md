@@ -24,7 +24,9 @@
   - Being proficient in Python, with solid experience on development of intra-tools, data-mining, integrations, API-services, parallel-processing, etc.
   - Experience on leading big-data platform secondary development of a Java Dev team.
   - Deep understanding on Orchestration & IaC (Infrastructure as Code), with practical experience on K8S resource files, GitLab CI/CD files, Jenkins-files, CloudFormation, and etc.
-- Team leadership: task decomposition, cross-team collaboration, tech specification definition, recruitment & training, KPI assessments, team building, etc.
+- Team leadership:
+  - Task decomposition, cross-team collaboration, tech specification definition, recruitment & training, KPI assessments, team building, etc.
+  - Experience on agile development, building Jira platform for product owner and scrum master, join sprint-planning, daily-standup, sprint-review meetings as engineering lead role.
 - Languages: Mandarin (native), English ([CET-6](/resumes/resources/cet6.jpg), working-well) 
 
 ## Work Experiences
