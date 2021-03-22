@@ -16,7 +16,7 @@
   - 拥有阿里云落地的丰富实战经验，持有[Aliyun Certified Cloud Computing Engineer (Professional)](https://www.lilei.tech/resumes/resources/Alibaba-Cloud-Certified-Professional-lilei.jpg)个人认证；
   - 拥有同多个云供应商销售、售前技术、售后技术沟通协作的丰富经验；
 - DevOps:
-  - 拥有[传统企业从0到1引入并落地DevOps自动化](https://www.sohu.com/a/235822585_684389)的实战经验；
+  - 拥有[传统企业引入并落地DevOps自动化](http://blog.daocloud.io/cusstory-dongming/)的实战经验；
   - 拥有多云、多环境、多团队协作场景下，实现端到端从代码到自动化部署GitOps的丰富实战经验；
   - 拥有从0搭建完整DevOps工具链（GitLab, Jira, Confluence, Nexus, Docker-Registry, GitLab-Runner, Apollo-Config-Server 等）的实操经验；
   - 拥有K8S集群中通过ING, EP, DS, Job, HPA, cluster-autoscaler, CRD等特性承载多套微服务系统的丰富经验

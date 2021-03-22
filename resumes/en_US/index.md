@@ -16,7 +16,7 @@
   - Deep understanding on Ali-Cloud since 2013, up to now with its diverse IaaS/PaaS/SaaS services, certified as [Aliyun Certified Cloud Computing Engineer (Professional)](https://www.lilei.tech/resumes/resources/Alibaba-Cloud-Certified-Professional-lilei.jpg).
   - Solid experiences on cooperation with BD, SA, TAM teams of AWS and Ali-cloud.
 - DevOps:
-  - Solid experience on [introducing DevOps to an enterprise from scratch](https://www.sohu.com/a/235822585_684389), as a part of its Digital Transformation.
+  - Solid experience on [introducing DevOps to an enterprise from scratch](http://blog.daocloud.io/cusstory-dongming/), as a part of its Digital Transformation.
   - Deep understanding both on principles and hands-on works of DevOps, practical experiences on achieving CI/CD as code and K8S containerization, under multi-clouds (AWS & Ali-Cloud), multi-teams and multi-deployment-environments scenarios.
   - Practical experience on building DevOps platforms from scratch (GitLab, Jira, Confluence, Nexus, Docker-Registry, GitLab-Runner, Apollo-Config-Server etc.).
   - Solid experience on containerization for hundreds of micro-services with Kubernetes, with diverse resources as ING, EP, DS, Job, HPA, cluster-autoscaler, CRD, etc.
