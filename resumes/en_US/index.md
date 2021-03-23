@@ -1,6 +1,6 @@
 # Resume of LI Lei *(李雷)*
 
-| Avatar | Basic Info. |
+| Photo | Basic Info. |
 | :-: | :-: |
 | ![avatar][base64avatar] | *Tel*: [+86-173-1235-0801](/img/vcard.png)<br/>*E-mail*: i@lilei.tech<br/>*WeChat*: [stdlib](/img/wechat.png)<br/>Master of Engineering<br/>On Job in Shanghai<br/>10 years' experience for development, including 5 years' leadership<br/>*Expected Role*: Architect / Sr. Engineer<br/>*Directions*: **Cloud Solution Architect** / **DevOps** / **Kubernetes** |
 
