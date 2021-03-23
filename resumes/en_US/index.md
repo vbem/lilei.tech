@@ -1,8 +1,8 @@
-# Resume of LI Lei
+# Resume of LI Lei *(李雷)*
 
 | Avatar | Basic Info. |
 | :-: | :-: |
-| ![avatar][base64avatar] | *Tel*: [+86-173-1235-0801](/img/vcard.png)<br/>*E-mail*: i@lilei.tech<br/>*WeChat*: [stdlib](/img/wechat.png)<br/>Master of Engineering<br/>On Job in Shanghai<br/>10 years' experience for development, including 5 years' leadership<br/>*Expected role*: Architect / Sr. Engineer<br/>*Directions*: **Cloud Solution Architect** / **DevOps** / **Kubernetes** |
+| ![avatar][base64avatar] | *Tel*: [+86-173-1235-0801](/img/vcard.png)<br/>*E-mail*: i@lilei.tech<br/>*WeChat*: [stdlib](/img/wechat.png)<br/>Master of Engineering<br/>On Job in Shanghai<br/>10 years' experience for development, including 5 years' leadership<br/>*Expected Role*: Architect / Sr. Engineer<br/>*Directions*: **Cloud Solution Architect** / **DevOps** / **Kubernetes** |
 
 ## Summary
 
@@ -40,10 +40,10 @@
 - Responsibilities:
   - As a team leader, [land the big-data platform onto AWS](https://www.amazonaws.cn/customer-stories/media-and-entertainment/opg/) from scratch.
   - As the liaison officer of this enterprise on AWS, achieve the [advanced APN qualification](https://partners.amazonaws.com/cn/partners/0010L00001qzOH4QAM).
-  - Land several systems on Ali-Cloud and realize their containerization in [ACK on ECI](https://help.aliyun.com/document_detail/118970.html) with end-to-end CI/CD automation using [GitLab Pipelines](https://docs.gitlab.com/ee/ci/introduction/#a-deeper-look-into-the-cicd-workflow).
   - As a part of Digital Transformation, [introduce DevOps to this enterprise](http://blog.daocloud.io/cusstory-dongming/) from scratch.
   - Build the enterprise-level DevOps chain ([GitLab](https://gitlab.opg.cn/), [Jira](https://j.opg.cn/), [Confluence](https://c.opg.cn/), Nexus, Docker-Registry, GitLab-Runner, Apollo-Config-Server etc.).
   - Define and optimize and spread DevOps workflow for several Dev teams.
+  - Land several systems on Ali-Cloud and realize their containerization in [ACK on ECI](https://help.aliyun.com/document_detail/118970.html) with end-to-end CI/CD automation using [GitLab Pipelines](https://docs.gitlab.com/ee/ci/introduction/#a-deeper-look-into-the-cicd-workflow).
   - Lead a small back-end Dev team, promote the transformation of micro-service.
   - Lead the big-data platform Dev team to achieve the tech standard of data gathering, construction of data lake, development of client-side SDK, achieving unified data lake for multiple subsidiaries in this enterprise.
   - Drive [open-source](https://github.com/opgcn) of partial general components of this enterprise.
@@ -101,11 +101,11 @@
 
 ## Educational Background
 
-- 2008/9–2011/4, the [Master of Engineering](/resumes/resources/master-degree.jpg) majored in SIP (Signal and Information Processing) in Nanjing University of Posts and Telecommunications, ranking within the top 10%.
+- 2008/9–2011/4, the [Master of Engineering](/resumes/resources/master-degree.jpg) majored in SIP (Signal and Information Processing) in NUPT (Nanjing University of Posts and Telecommunications), ranking within the top 10%.
 
 During the period of postgraduate, I conducted the research and development of Cognitive Wireless Network Algorithms, participated in two nation-level projects, published 5 articles in China and abroad (including two [link-A](https://ieeexplore.ieee.org/document/5633440/) and [link-B](https://ieeexplore.ieee.org/document/5702986) articles through IEEE EI searching), I was awarded [Excellent Postgraduate](/resumes/resources/Excellent-Graduate.jpg) and scholarships as well as other honors. I won the [first prize of GMCM](/resumes/resources/gmcm.jpg) (No. 4 of the nation) as the team leader.
 
-- 2004/4–2008/6, the [Bachelor of Engineering](/resumes/resources/bachelor-degree.jpg) majored in Communication Engineering in Nanjing University of Posts and Telecommunications, ranking within the top 10%.
+- 2004/4–2008/6, the [Bachelor of Engineering](/resumes/resources/bachelor-degree.jpg) majored in Communication Engineering in NUPT, ranking within the top 10%.
 
 During the period of undergraduate, I was awarded the academic and enterprise scholarship for many times, and I served as the vice minister of Information Technology Department of University Science & Technology Association Forum, I also participated in the [Open Source Mirror Server](https://mirrors.njupt.edu.cn/) Maintenance, organized the Canonical Ubuntu Campus Promotion Activities, etc. 
 
