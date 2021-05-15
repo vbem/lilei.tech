@@ -10,10 +10,11 @@
   <script src="https://cdn.bootcss.com/highlight.js/8.0/highlight.min.js"></script>
 </head>
 <body>
+  <h1>The page is hidden</h1>
+  <!-- HTML不熟，擅长写Markdown
   <div id="content" class="markdown-body">
   <script>
     // if(location.protocol=='http:'){location.protocol='https:'};
-    <!-- HTML不熟，擅长写Markdown -->
     hljs.initHighlightingOnLoad();
     $.get("index.md", function(md){
       document.getElementById('content').innerHTML = marked(md, {
@@ -22,5 +23,6 @@
     });
   </script>
   </div>
+  -->
 </body>
 </html>
