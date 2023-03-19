@@ -34,7 +34,7 @@
 ### 2021/05 - Now
 
 - Company: [Ingka Group, IKEA (China) Investment Co., Ltd.](https://www.ikea.cn/), Shanghai
-- Department: *[Cloud Center of Excellence - China Dept.]([https://ds.opg.cn/](https://confluence.build.ingka.ikea.com/x/uqDxCQ))*
+- Department: *[Cloud Center of Excellence - China Dept.](https://confluence.build.ingka.ikea.com/x/uqDxCQ)*
 - Position: *Sr. Engineer* (Solution Architect)
 - Tech-Stack: *Aliyun*, *K8s*, *CI/CD*, *Python*, etc.
 
