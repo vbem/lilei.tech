@@ -6,7 +6,7 @@
 
 ## Summary
 
-- 10 years' experience on cloud computing, DevOps, software development and team management, worked for top companies of Internet, e-commerce, new-media, and retails.
+- 10+ years' experience on cloud computing, DevOps, software development and team management, worked for top companies of Internet, e-commerce, new-media, and retails.
 - Deep understanding of enterprise digital-transformation, with solid experience on Cloud, DevOps, Kubernetes landing in traditional enterprise from scratch.
 - Being proficient in cloud computing, DevOps, Kubernetes architecture design and hands-on operations, as well as back-end development and team management.
 - Cloud:
