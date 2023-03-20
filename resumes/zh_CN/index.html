@@ -10,16 +10,16 @@
   <script src="https://cdn.bootcss.com/highlight.js/8.0/highlight.min.js"></script>
 </head>
 <body>
+  <h1>hidden ^_^</h1><!--
   <div id="content" class="markdown-body"></div>
   <script>
     // if(location.protocol=='http:'){location.protocol='https:'};
-    <!-- HTML不熟，擅长写Markdown -->
     hljs.initHighlightingOnLoad();
     $.get("index.md", function(md){
       document.getElementById('content').innerHTML = marked(md, {
         highlight: function(code){return hljs.highlightAuto(code).value;}
       })
     });
-  </script>
+  </script>-->
 </body>
 </html>
