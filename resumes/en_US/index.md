@@ -7,27 +7,24 @@
 ## Summary
 
 - 10 years' experience on cloud computing, DevOps, software develepment and team management, worked for top companies of Internet, e-commerce, new-media and retails.
-- Deep understanding on enterprise digital-transformation, with solid experience on Cloud, DevOps, Kubernetes landing in traditional enterprise from scratch.
-- Being proficient in cloud computing, DevOps, Kubernetes architecture design and hands-on operations, as well as back-end development and team management practical experiences.
+- Deep understanding of enterprise digital-transformation, with solid experience on Cloud, DevOps, Kubernetes landing in traditional enterprise from scratch.
+- Being proficient in cloud computing, DevOps, Kubernetes architecture design and hands-on operations, as well as back-end development and team management.
 - Cloud:
-  - Deep understanding on enterprise digital-transformation unto clouds, with best practices and cost efficiency.
-  - Deep understanding on AWS Cloud, certified as [AWS Certified Solutions Architect (Professional)](/resumes/resources/AWS-Certified-Solutions-Architect-Professional-certificate-lilei.pdf), [AWS Certified Solutions Architect (Associate)](/resumes/resources/AWS-Certified-Solutions-Architect-Associate-certificate-lilei.pdf), and [AWS Certified SysOps Administrator (Associate)](/resumes/resources/AWS-Certified-SysOps-Administrator-Associate-certificate-lilei.pdf).
-  - Experiences on achieving the enterprise-level AWS partner qualification.
+  - Deep understanding on enterprise digital-transformation unto clouds, with best practices and cost efficiency. As well as solid experiences on multi-cloud strategy, cloud governance and cooperation with cloud providers.
+  - Deep understanding on AWS Cloud, certified as [AWS Certified Solutions Architect (Professional)](/resumes/resources/AWS-Certified-Solutions-Architect-Professional-certificate-lilei.pdf), [AWS Certified Solutions Architect (Associate)](/resumes/resources/AWS-Certified-Solutions-Architect-Associate-certificate-lilei.pdf), and [AWS Certified SysOps Administrator (Associate)](/resumes/resources/AWS-Certified-SysOps-Administrator-Associate-certificate-lilei.pdf). Experiences on achieving the enterprise-level AWS partner qualification.
   - Deep understanding on Ali-Cloud since 2013, certified as [Aliyun Certified Cloud Computing Engineer (Professional)](https://www.lilei.tech/resumes/resources/Alibaba-Cloud-Certified-Professional-lilei.jpg).
-  - Solid experiences on cooperation with cloud providers.
 - DevOps:
-  - Solid experience on [introducing DevOps to an enterprise from scratch](http://blog.daocloud.io/cusstory-dongming/), as a part of its Digital Transformation.
+  - Solid experience on [introducing DevOps to an enterprise from 0 to 1](http://blog.daocloud.io/cusstory-dongming/). Practical experience on building DevOps platforms for an enterprise from scratch (GitLab, GitHub, Jira, Confluence, Nexus, Docker-Registries, ArgoCD and etc.).
   - Deep understanding both on principles and hands-on works of DevOps, practical experiences on achieving CI/CD as code and K8S containerization, under multi-clouds (AWS & Ali-Cloud), multi-teams and multi-deployment-environments scenarios.
-  - Practical experience on building DevOps platforms from scratch (GitLab, GitHub, Jira, Confluence, Nexus, Docker-Registries, ArgoCD and etc.).
-  - Solid experience on containerization for hundreds of micro-services with Kubernetes.
+  - Solid experience on containerization for hundreds of micro-services with Kubernetes. As well as DevOps / SRE team management for various enterprise applications.
 - Coding:
   - Being proficient in Python, with solid experience on development of intra-tools, data-mining, integrations, API-services, parallel-processing, etc.
   - Experience on leading big-data platform secondary development of a Java Dev team.
-  - Deep understanding on Orchestration & IaC (Infrastructure as Code), with practical experience on K8S clusters management.
+  - Deep understanding on Orchestration & IaC (Infrastructure as Code), with practical experience on CI/CD as code.
 - Team leadership:
   - Task decomposition, cross-team collaboration, tech specification definition, recruitment & training, KPI assessments, team building, etc.
   - Experience on agile development, setting up Jira platform for product owner and scrum master, participation in sprint-planning, daily-standup, sprint-review meetings as engineering lead role.
-- Languages: Mandarin (native), English ([CET-6](/resumes/resources/cet6.jpg), fluent) 
+- Languages: English ([CET-6](/resumes/resources/cet6.jpg), fluent) / Mandarin (native)
 
 ## Work Experiences
 
@@ -35,15 +32,15 @@
 
 - Company: [Ingka Group, IKEA (China) Investment Co., Ltd.](https://www.ikea.cn/), Shanghai
 - Department: *[Cloud Center of Excellence - China Dept.](https://confluence.build.ingka.ikea.com/x/uqDxCQ)*
-- Position: *Sr. Engineer* (Solution Architect)
-- Tech-Stack: *Aliyun*, *K8s*, *CI/CD*, *Python*, etc.
+- Position: *Sr. Engineer* (Solution Architect role)
+- Tech-Stack: *Aliyun*, *K8s*, *CI/CD*, *Python*, *Cloud Governance*, etc.
 - Responsibilities & achievements:
   - As solution architect in cloud team, design and land [standard cloud on-boarding workflow](https://confluence.build.ingka.ikea.com/x/3RIAEw) and [AliCloud best practice guidelines](https://confluence.build.ingka.ikea.com/x/ExIAEw) for Ingka. Navigate dozens of projects' AliCloud setup in the right way.
-  - As virtual lead of a FTC SRE team, provide [end-to-end infrastructure & DevOps supports](https://confluence.build.ingka.ikea.com/x/5Un5Gw) to 4 Ingka LIVAT B2B digital solutions, covering their infrastructure, troubleshooting, monitoring, cost-optimization and CI/CD.
+  - As virtual lead of a FTC SRE team, provide [end-to-end infrastructure & DevOps supports](https://confluence.build.ingka.ikea.com/x/5Un5Gw) to 4 Ingka LIVAT B2B digital solutions, covering their daily infrastructure, troubleshooting, monitoring, cost-optimization and CI/CD.
   - As virtual lead of cloud billing team, establish an automatice [bills spiltting workflow and moudles](https://confluence.build.ingka.ikea.com/x/inAfH) from 0 to 1, apply to all Ingka CN cloud accounts.
-  - As owner & developer of China cloud governance platforms: Build centralized and distibuted [SSO solutions](https://confluence.build.ingka.ikea.com/x/nIC0Fg) for Ingka AliCloud accounts, integrate them with Ingka cloud accounts CMDB (Cloud Portal). Build [centralized JumpServer](https://confluence.build.ingka.ikea.com/x/v4rpG) solution for Ingka China, integrate them with Ingka security system and others. Build cloud identities scanning self service, which generate automatic advisor report for various Ingka cloud accounts.
+  - As owner & developer of China cloud governance platforms: Build centralized and distibuted [SSO solutions](https://confluence.build.ingka.ikea.com/x/nIC0Fg) for Ingka AliCloud accounts, integrate them with Ingka cloud accounts CMDB (Cloud Portal). Build [centralized JumpServer](https://confluence.build.ingka.ikea.com/x/v4rpG) solution for Ingka China, integrate it with Ingka security system and others. Build cloud identities scanning self service, which generate automatic advisor report for various Ingka cloud accounts.
   - As an important participant, contribute codes and solutions to Ingka China centralized ArgoCD service, Cloud disaster recovery project, digital hub platform consolidation project, CN Communication Hub project and etc. Achieve Ingka Digital Hub FY23 Star Team Award.
-  - In spare time contribut to open source projects: [kubeconfig4sa](https://github.com/vbem/kubeconfig4sa) - An CI/CD action linking GitHub with your Kubernetes cluster, [aliyun/ossfs](https://github.com/aliyun/ossfs) - AliCloud official OSS fuse tool, [AIO](https://hub.docker.com/r/vbem/aio) - generic debugging image for DevOps, etc. 
+  - In spare time contribut to some open source projects: [kubeconfig4sa](https://github.com/vbem/kubeconfig4sa) - An CI/CD action linking GitHub with your Kubernetes cluster, [aliyun/ossfs](https://github.com/aliyun/ossfs) - AliCloud official OSS fuse tool, [AIO](https://hub.docker.com/r/vbem/aio) - generic debugging image for DevOps, etc.
 
 ### 2016/10 - 2021/05
 
@@ -51,21 +48,14 @@
 - Department: *Cloud Computing Center(Academy) - [Data Service Dept.](https://ds.opg.cn/)*
 - Position: *Sr. Mgr.* (Level-12)
 - Tech-Stack: *AWS*, *Aliyun*, *K8s*, *CI/CD*, etc.
-- Responsibilities:
-  - As a team leader, [land the big-data platform onto AWS](https://www.amazonaws.cn/customer-stories/media-and-entertainment/opg/) from scratch.
-  - As the liaison officer of this enterprise on AWS, achieve the advanced APN qualification.
-  - As a part of Digital Transformation, [introduce DevOps to this enterprise](http://blog.daocloud.io/cusstory-dongming/) from scratch.
-  - Build the enterprise-level DevOps chain (GitLab, Jira, Confluence, Nexus, Docker-Registry, GitLab-Runner, Apollo-Config-Server etc.).
-  - Define and optimize and spread DevOps workflow for several Dev teams.
+- Responsibilities & achievements:
+  - As a team leader, [land the big-data platform onto AWS](https://www.amazonaws.cn/customer-stories/media-and-entertainment/opg/) from scratch. As well as achieve enterprise-level advanced APN qualification.
+  - As a part of Digital Transformation, [introduce DevOps to this enterprise](http://blog.daocloud.io/cusstory-dongming/) from scratch. Build the enterprise-level DevOps chain (GitLab, Jira, Confluence, Nexus, Docker-Registry, GitLab-Runner, Apollo-Config-Server etc.). Define and optimize and spread DevOps workflow for several Dev teams.
   - Land several systems on Ali-Cloud and realize their containerization in K8s with end-to-end CI/CD automation.
-  - Lead a small back-end Dev team, promote the transformation of micro-service.
-  - Lead the big-data platform Dev team to achieve the tech standard of data gathering, construction of data lake, development of client-side SDK, achieving unified data lake for multiple subsidiaries in this enterprise.
+  - Lead a small back-end Dev team, promote the transformation of micro-service. As well as lead a big-data platform team to achieve the tech standard of data gathering, construction of data lake, development of client-side SDK, achieving unified data lake for multiple subsidiaries in this enterprise.
   - Drive [open-source](https://github.com/opgcn) of partial general components of this enterprise.
   - As the Sr. Manager role, I am also responsible for the overall technical architecture designing, core module development, cross-teams technical communication, new technology research, tech specification landing, recruitment & training, task decomposition, KPI assessment of engineers and other related works.
-- Achievements:
-  - President Award of Oriental Pearl Group in 2018
-  - [Science Progress Award](/resumes/resources/Science-Progress-Award.jpg) of China Television Technology Academy in 2019
-  - Promotion from Sr. Engineer to Manager to Sr. Manager within 4 years in a traditional government-owned enterprise, all by personal working ability.
+  - Achievements: President Award of Oriental Pearl Group in 2018. [Science Progress Award](/resumes/resources/Science-Progress-Award.jpg) of China Television Technology Academy in 2019. Promotion from Sr. Engineer to Manager to Sr. Manager within 4 years in a traditional government-owned enterprise, all by personal working ability.
 
 ### 2014/09 - 2016/09
 
@@ -73,10 +63,9 @@
 - Department: *Technology Dept.*
 - Position: *Mgr.*
 - Tech-Stack: *Python*, *C/C++*, *Qt*, *Aliyun*, etc.
-- Responsibilities: As a technical co-founder of a start-up team, I am responsible for the construction of R&D team, development of the software, software upgrading, [patent writing](https://xueshu.baidu.com/usercenter/paper/show?paperid=1q0n0tx0w13d0xp0ya2m0c50dg724799) and other technical works.
-- Achievements:
-  - Leading the technical team to accomplish software for casting-process simulation, ship designing simulation, environmental simulation, while the clients including Manufacturing R&D Enterprises, Ship Design Companies, University Research Unit, and outcome of sales reached more than 1 million CNY.
-  - Assisting the company to gain the Leading Project in Suzhou City, and the Mass Entrepreneurship and Innovation Project Fund of Jiangsu Province.
+- Responsibilities & achievements:
+  - As a technical co-founder of a start-up team, I am responsible for the construction of R&D team, development of the software, software upgrading, [patent writing](https://xueshu.baidu.com/usercenter/paper/show?paperid=1q0n0tx0w13d0xp0ya2m0c50dg724799) and other technical works.
+  - Achievements: Leading the technical team to accomplish software for casting-process simulation, ship designing simulation, environmental simulation, while the clients including Manufacturing R&D Enterprises, Ship Design Companies, University Research Unit, and outcome of sales reached more than 1 million CNY. Assisting the company to gain the Leading Project in Suzhou City, and the Mass Entrepreneurship and Innovation Project Fund of Jiangsu Province.
 
 ### 2013/07 - 2014/08
 
@@ -84,12 +73,11 @@
 - Department: *Taobao - Merchants Data Quality Dept.*
 - Position: *Sr. Engineer (P6+)*
 - Tech-Stack: *Python*, *PHP*, *Aliyun*, *ODPS*, etc.
-- Responsibilities:
+- Responsibilities & achievements:
   - Participate in the well-known [5K Project](https://tech.huanqiu.com/article/9CaKrnJCQaV) of Ali-Cloud, be responsible for the migration to cloud of all QA and Dev servers in our dept.
   - Using RobotFramework keywords and the API of [ODPS](https://www.aliyun.com/product/odps/), develop a general basic library of full-category merchant data API testing, which accelerated test-cases developing efficiency for our QA engineers.
   - Develop a web-based automated test platform based on Drupal to improve efficiency of Devs' self-testing.
-- Achievements:
-  - Technology Pioneer of Taobao-Merchants Data Quality Department in 2013
+  - Achievements: Technology Pioneer of Taobao-Merchants Data Quality Department in 2013
 
 ### 2011/04 - 2013/07
 
@@ -97,13 +85,11 @@
 - Department: *Page Searching - QA Dept.*
 - Position: *Sr. Engineer (T5)*
 - Technology Stack: *Python*, *C/C++*, *MySQL*, and other intra middleware of Baidu, etc.
-- Responsibilities:
+- Responsibilities & achievements:
   - Be responsible for a unified testing Platform. Design, development and maintenance about 20 internal QA-tools, such as retrieval package of distributed web information base, anti-spam unit test package in single page and etc.
   - Participate in the development of testing base library of Baidu.
   - Be independently responsible for the R&D of "[Baidu Zhixin](https://baike.baidu.com/item/%E7%99%BE%E5%BA%A6%E7%9F%A5%E5%BF%83/12015195) medicine data-mining project". With data aggregation of multiple offline medicine knowledge bases and third-party suppliers, qualified suppliers are [preferentially shown](https://www.baidu.com/s?wd=%E9%80%9F%E6%95%88%E4%BC%A4%E9%A3%8E%E8%83%B6%E5%9B%8A) in the first page of Baidu searching results page through Aladdin platform.
-- Achievements:
-  - Promotion from T3 to T4 to T5 within 2 years.
-  - Successively being awarded the Star of QA, Quality Expert in Baidu QA and Technology Pioneer (the highest tech award of QA Dept. in Baidu).
+  - Achievements: Promotion from T3 to T4 to T5 within 2 years. Successively being awarded the Star of QA, Quality Expert in Baidu QA and Technology Pioneer (the highest tech award of QA Dept. in Baidu).
 
 ## Certifications
 
