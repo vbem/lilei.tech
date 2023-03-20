@@ -2,35 +2,45 @@
 
 | 招聘 | 基本信息 |
 | :-: | :-: |
-| ![avatar][base64avatar] | *电话*: [+86-173-1235-0801](/img/vcard.png)<br/>*邮件*: i@lilei.tech<br/>*微信*: [stdlib](/img/wechat.png)<br/>工学硕士<br/>在职，上海<br/>10年工作经验，其中5年技术管理和Lead经验<br/>*擅长方向*: **云解决方案架构** / **DevOps** / **Kubernetes** |
+| ![avatar][base64avatar] | *电话*: [+86-173-1235-0801](/img/vcard.png)<br/>*邮件*: i@lilei.tech<br/>*微信*: [stdlib](/img/wechat.png)<br/>工学硕士<br/>在职，上海<br/>10+年工作经验，覆盖云计算、开发运维、软件研发、团队管理<br/>*擅长方向*: 云解决方案架构 / 开发运维 / 云原生 |
 
 ## 概要
 
-- 10年工作经验，其中5年技术管理和Lead经验，先后供职于国内顶级互联网、电商、新媒体企业。
+- 10+年工作经验，覆盖云计算、开发运维、软件研发、团队管理，先后供职于顶级互联网、电商、新媒体、零售企业。
 - 熟悉企业数字化转型，拥有从0到1的系统上云、DevOps化、容器服务化经验。
-- 拥有云丰富的解决方案、DevOps、Kubernetes落地的实操经验和技术管理经验。
+- 拥有丰富的云解决方案、DevOps、Kubernetes落地的实操经验和技术管理经验。
 - 云计算:
-  - 熟悉云计算落地过程中的最佳实践和成本优化；
-  - 拥有AWS云的丰富经验, 个人持有[AWS Certified Solutions Architect (Professional)](/resumes/resources/AWS-Certified-Solutions-Architect-Professional-certificate-lilei.pdf)（AWS云计算最高认证）、[AWS Certified Solutions Architect (Associate)](/resumes/resources/AWS-Certified-Solutions-Architect-Associate-certificate-lilei.pdf)、[AWS Certified SysOps Administrator (Associate)](/resumes/resources/AWS-Certified-SysOps-Administrator-Associate-certificate-lilei.pdf)认证证书；
-  - 拥有实现[AWS企业合作伙伴级高级资质](https://partners.amazonaws.com/cn/partners/0010L00001qzOH4QAM)的实战经验；
+  - 熟悉云计算数字化转型过程中过程中的最佳实践和成本优化；拥有丰富的多云战略、企业云治理、供应商管理经验。
+  - 拥有AWS云的丰富经验, 个人持有[AWS Certified Solutions Architect (Professional)](/resumes/resources/AWS-Certified-Solutions-Architect-Professional-certificate-lilei.pdf)（AWS云计算最高认证）、[AWS Certified Solutions Architect (Associate)](/resumes/resources/AWS-Certified-Solutions-Architect-Associate-certificate-lilei.pdf)、[AWS Certified SysOps Administrator (Associate)](/resumes/resources/AWS-Certified-SysOps-Administrator-Associate-certificate-lilei.pdf)认证证书；拥有实现AWS企业合作伙伴级高级资质的实战经验；
   - 拥有阿里云落地的丰富实战经验，持有[Aliyun Certified Cloud Computing Engineer (Professional)](https://www.lilei.tech/resumes/resources/Alibaba-Cloud-Certified-Professional-lilei.jpg)个人认证；
-  - 拥有同多个云供应商销售、售前技术、售后技术沟通协作的丰富经验；
 - DevOps:
-  - 拥有[传统企业引入并落地DevOps自动化](http://blog.daocloud.io/cusstory-dongming/)的实战经验；
-  - 拥有多云、多环境、多团队协作场景下，实现端到端从代码到自动化部署GitOps的丰富实战经验；
-  - 拥有从0搭建完整DevOps工具链（GitLab, Jira, Confluence, Nexus, Docker-Registry, GitLab-Runner, Apollo-Config-Server 等）的实操经验；
-  - 拥有K8S集群中通过ING, EP, DS, Job, HPA, cluster-autoscaler, CRD等特性承载多套微服务系统的丰富经验
-- 编码:
-  - 拥有多年Python开发经验；
-  - 拥有管理后端开发团队的经验；
+  - 拥有[传统企业引入并落地DevOps自动化](http://blog.daocloud.io/cusstory-dongming/)的实战经验；拥有从0搭建完整DevOps工具链（GitLab, Jira, Confluence, Nexus, Docker-Registry, ArgoCD 等）的实操经验；
+  - 拥有多云、多环境、多团队协作场景下，实现端到端从代码到自动化部署GitOps的丰富实战、实操经验；
+  - 拥有承载数百个微服务的Kubernetes集群构建和管理经验；拥有负责多个项目的开发运维团队管理经验；
+- 编码开发:
+  - 拥有多年Python开发经验；拥有管理后端开发团队的经验；
   - 深入理解编排和基础设施即代码（IaC）并拥有落地经验；
 - 技术管理: 
   - 拥有任务分解、跨团队协作、技术标准制定、招聘、培训、考核的管理经验；
-- 语言: 熟练使用英文进行技术文档的撰写和沟通
+- 语言: 熟练使用英文作为工作语言
 
 ## 工作经历
 
-### 2016/10 - 至今
+### 2021/05 - 至今
+
+- 公司: [英格卡集团 宜家（中国）投资有限公司](https://www.ikea.cn/), 上海
+- 部门: *[中国云卓越中心](https://confluence.build.ingka.ikea.com/x/uqDxCQ)*
+- 职位: *高级工程师* (云架构师角色)
+- 技术栈: *阿里云*, *Kubernetes*, *CI/CD*, *Python*, *云治理*, etc.
+- 职责与成就:
+  - As solution architect in cloud team, design and land [standard cloud on-boarding workflow](https://confluence.build.ingka.ikea.com/x/3RIAEw) and [AliCloud best practice guidelines](https://confluence.build.ingka.ikea.com/x/ExIAEw) for Ingka. Navigate dozens of projects' AliCloud setup in the right way.
+  - As virtual lead of a FTC SRE team, provide [end-to-end infrastructure & DevOps supports](https://confluence.build.ingka.ikea.com/x/5Un5Gw) to 4 Ingka LIVAT B2B digital solutions, covering their daily infrastructure, troubleshooting, monitoring, cost-optimization and CI/CD.
+  - As virtual lead of cloud billing team, establish an automatic [bills splitting workflow and modules](https://confluence.build.ingka.ikea.com/x/inAfH) from 0 to 1, apply to all Ingka CN cloud accounts.
+  - As owner & developer of China cloud governance platforms: Build centralized and distributed [SSO solutions](https://confluence.build.ingka.ikea.com/x/nIC0Fg) for Ingka AliCloud accounts, integrate them with Ingka cloud accounts CMDB (Cloud Portal). Build [centralized JumpServer](https://confluence.build.ingka.ikea.com/x/v4rpG) solution for Ingka China, integrate it with Ingka security system and others. Build cloud identities scanning self service, which generate automatic advisor report for various Ingka cloud accounts.
+  - As an important participant, contribute to Ingka China centralized ArgoCD service, Cloud disaster recovery project, digital hub platform consolidation project, CN Communication Hub project, cloud providers cooperation / management, new-comers recruiting and training, and etc. Achieve Ingka Digital Hub FY23 Star Team Award.
+  - In spare time contribute to some open source projects: [kubeconfig4sa](https://github.com/vbem/kubeconfig4sa) - An CI/CD action linking GitHub with your Kubernetes cluster, [aliyun/ossfs](https://github.com/aliyun/ossfs) - AliCloud official OSS fuse tool, [AIO](https://hub.docker.com/r/vbem/aio) - generic debugging image for DevOps, etc.
+
+### 2016/10 - 2021/05
 
 - 公司: [东方明珠新媒体](https://www.opg.cn/)（上市集团）
 - 部门: *研究院/云计算中心 - [数据服务部](https://ds.opg.cn/)*
