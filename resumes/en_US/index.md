@@ -37,6 +37,13 @@
 - Department: *[Cloud Center of Excellence - China Dept.](https://confluence.build.ingka.ikea.com/x/uqDxCQ)*
 - Position: *Sr. Engineer* (Solution Architect)
 - Tech-Stack: *Aliyun*, *K8s*, *CI/CD*, *Python*, etc.
+- Responsibilities & achievements:
+  - As solution architect in cloud team, design and land [standard cloud on-boarding workflow](https://confluence.build.ingka.ikea.com/x/3RIAEw) and [AliCloud best practice guidelines](https://confluence.build.ingka.ikea.com/x/ExIAEw) for Ingka. Navigate dozens of projects' AliCloud setup in the right way.
+  - As virtual lead of a FTC SRE team, provide [end-to-end infrastructure & DevOps supports](https://confluence.build.ingka.ikea.com/x/5Un5Gw) to 4 Ingka LIVAT B2B digital solutions, covering their infrastructure, troubleshooting, monitoring, cost-optimization and CI/CD.
+  - As virtual lead of cloud billing team, establish an automatice [bills spiltting workflow and moudles](https://confluence.build.ingka.ikea.com/x/inAfH) from 0 to 1, apply to all Ingka CN cloud accounts.
+  - As owner & developer of China cloud governance platforms: Build centralized and distibuted [SSO solutions](https://confluence.build.ingka.ikea.com/x/nIC0Fg) for Ingka AliCloud accounts, integrate them with Ingka cloud accounts CMDB (Cloud Portal). Build [centralized JumpServer](https://confluence.build.ingka.ikea.com/x/v4rpG) solution for Ingka China, integrate them with Ingka security system and others. Build cloud identities scanning self service, which generate automatic advisor report for various Ingka cloud accounts.
+  - As an important participant, contribute codes and solutions to Ingka China centralized ArgoCD service, Cloud disaster recovery project, digital hub platform consolidation project, CN Communication Hub project and etc. Achieve Ingka Digital Hub FY23 Star Team Award.
+  - In spare time contribut to open source projects: [kubeconfig4sa](https://github.com/vbem/kubeconfig4sa) - An CI/CD action linking GitHub with your Kubernetes cluster, [aliyun/ossfs](https://github.com/aliyun/ossfs) - AliCloud official OSS fuse tool, [AIO](https://hub.docker.com/r/vbem/aio) - generic debugging image for DevOps, etc. 
 
 ### 2016/10 - 2021/05
 
