@@ -1,4 +1,4 @@
-# Resume of LI Lei *(李雷)*
+# Resume of Lei LI *(李雷)*
 
 | Photo | Basic Info. |
 | :-: | :-: |
@@ -6,21 +6,21 @@
 
 ## Summary
 
-- 10+ years' experience on cloud computing, DevOps, software development and team management, worked for top companies of Internet, e-commerce, new-media, and retails.
+- 10+ years' egineering experience in top China and global companies of Internet, e-commerce, new-media, and retails.
 - Deep understanding of enterprise digital-transformation, with solid experience on Cloud, DevOps, Kubernetes landing in traditional enterprise from scratch.
-- Being proficient in cloud computing, DevOps, Kubernetes architecture design and hands-on operations, as well as back-end development and team management.
+- Being proficient in cloud computing, DevOps, Kubernetes, software development and team management, from hands-on to architecture design.
 - Cloud:
-  - Deep understanding on enterprise digital-transformation unto clouds, with best practices and cost efficiency. As well as solid experiences on multi-cloud strategy, cloud governance and cooperation with cloud providers.
+  - Deep understanding on enterprise digital-transformation unto public clouds in best practice. As well as solid experiences on multi-cloud strategy, cloud governance, cloud billing, cost optimization and cooperation with cloud providers.
   - Deep understanding on AWS Cloud, certified as [AWS Certified Solutions Architect (Professional)](/resumes/resources/AWS-Certified-Solutions-Architect-Professional-certificate-lilei.pdf), [AWS Certified Solutions Architect (Associate)](/resumes/resources/AWS-Certified-Solutions-Architect-Associate-certificate-lilei.pdf), and [AWS Certified SysOps Administrator (Associate)](/resumes/resources/AWS-Certified-SysOps-Administrator-Associate-certificate-lilei.pdf). Experiences on achieving the enterprise-level AWS partner qualification.
   - Deep understanding on Ali-Cloud since 2013, certified as [AliCloud Certified Cloud Computing Engineer (Professional)](https://www.lilei.tech/resumes/resources/Alibaba-Cloud-Certified-Professional-lilei.jpg).
 - DevOps:
-  - Solid experience on [introducing DevOps to an enterprise from 0 to 1](http://blog.daocloud.io/cusstory-dongming/). Practical experience on building DevOps platforms for an enterprise from scratch (GitLab, GitHub, Jira, Confluence, Nexus, Docker-Registries, ArgoCD, etc.).
+  - Solid experience on [introducing DevOps to an enterprise from 0 to 1](http://blog.daocloud.io/cusstory-dongming/). Practical experience on building engineering  efficiency platforms for an enterprise from scratch (GitLab, GitHub, Jira, Confluence, Nexus, Docker-Registries, ArgoCD, etc.).
   - Deep understanding both on principles and hands-on works of DevOps, practical experiences on achieving CI/CD as code and K8S containerization, under multi-clouds (AWS & Ali-Cloud), multi-teams and multi-deployment-environments scenarios.
   - Solid experience on containerization for hundreds of micro-services with Kubernetes. As well as DevOps / SRE team management for various enterprise applications.
 - Coding:
   - Being proficient in Python, with solid experience on development of intra-tools, data mining, integrations, API-services, parallel-processing, etc.
-  - Experience on leading big-data platform secondary development of a Java Dev team.
-  - Deep understanding on Orchestration & IaC (Infrastructure as Code), with practical experience on CI/CD as code.
+  - Experience on leading big-data platform secondary development of a Dev team.
+  - Deep understanding on Orchestration & IaC (Infrastructure as Code), with practical experience on CI/CD as code (GitOps).
 - Team leadership:
   - Task decomposition, cross-team collaboration, tech specification definition, recruitment & training, KPI assessments, team building, etc.
   - Experience on agile development, setting up Jira platform for product owner and scrum master, participation in sprint-planning, daily-standup, sprint-review meetings as engineering lead role.
@@ -31,16 +31,28 @@
 ### 2021/05 - Now
 
 - Company: [Ingka Group, IKEA (China) Investment Co., Ltd.](https://www.ikea.cn/), Shanghai
-- Department: *[Cloud Center of Excellence - China Dept.](https://confluence.build.ingka.ikea.com/x/uqDxCQ)*
+- Department: *Cloud Center of Excellence - China Dept.*
 - Position: *Sr. Engineer* (Solution Architect role)
-- Tech-Stack: *AliCloud*, *K8s*, *CI/CD*, *Python*, *Cloud Governance*, etc.
+- Tech-Stack: *AliCloud*, *K8s*, *CI/CD*, *SRE*, *Cloud Governance*, *Python*, etc.
 - Responsibilities & achievements:
-  - As solution architect in cloud team, design and land [standard cloud on-boarding workflow](https://confluence.build.ingka.ikea.com/x/3RIAEw) and [AliCloud best practice guidelines](https://confluence.build.ingka.ikea.com/x/ExIAEw) for Ingka. Navigate dozens of projects' AliCloud setup in the right way.
-  - As virtual lead of a FTC SRE team, provide [end-to-end infrastructure & DevOps supports](https://confluence.build.ingka.ikea.com/x/5Un5Gw) to 4 Ingka LIVAT B2B digital solutions, covering their daily infrastructure, troubleshooting, monitoring, cost-optimization and CI/CD.
-  - As virtual lead of cloud billing team, establish an automatic [bills splitting workflow and modules](https://confluence.build.ingka.ikea.com/x/inAfH) from 0 to 1, apply to all Ingka CN cloud accounts.
-  - As owner & developer of China cloud governance platforms: Build centralized and distributed [SSO solutions](https://confluence.build.ingka.ikea.com/x/nIC0Fg) for Ingka AliCloud accounts, integrate them with Ingka cloud accounts CMDB (Cloud Portal). Build [centralized JumpServer](https://confluence.build.ingka.ikea.com/x/v4rpG) solution for Ingka China, integrate it with Ingka security system and others. Build cloud identities scanning self service, which generate automatic advisor report for various Ingka cloud accounts.
-  - As an important participant, contribute to Ingka China centralized ArgoCD service, Cloud disaster recovery project, digital hub platform consolidation project, CN Communication Hub project, cloud providers cooperation / management, new-comers recruiting and training, and etc. Achieve Ingka Digital Hub FY23 Star Team Award.
-  - In spare time contribute to some open source projects: [kubeconfig4sa](https://github.com/vbem/kubeconfig4sa) - An CI/CD action linking GitHub with your Kubernetes cluster, [aliyun/ossfs](https://github.com/aliyun/ossfs) - AliCloud official OSS fuse tool, [AIO](https://hub.docker.com/r/vbem/aio) - generic debugging image for DevOps, etc.
+  - *Solution Architect*
+    - From 0 to 1, design and land standard CN clouds on-boarding workflow and AliCloud best practice guidelines for Ingka Group. Navigate dozens of projects' AliCloud setup in the right way.
+    - As virtual lead of cloud billing team, established an automatic bills splitting workflow and modules from 0 to 1, apply to all Ingka CN cloud accounts.
+    - As cloud architect and important participant, be responsible for China multi-cloud strategy and coordinating with multi cloud providers.
+    - As an important participant, contribute to China digital disaster recovery project.
+  - *Cloud Governance Platforms Developer*
+    - Build centralized and distributed SSO solutions for Ingka AliCloud accounts, integrate them with Ingka cloud accounts CMDB (Cloud Portal).
+    - Build centralized JumpServer solution for Ingka China, integrated with Ingka multi-cloud enviroments and security systems.
+    - Build cloud identities scanning self-service, which generate automatic advisor report for various Ingka cloud accounts.
+    - As an important participant, contribute to Ingka China centralized ArgoCD service.
+  - *SRE Leader*
+    - As leader of a small team, provides end-to-end AliCloud SRE/DevOps support to [LIVAT CN](https://www.livat.cn/) B2B Dept.
+    - For 5 projects on AliCloud, built complete and unified infrastructure change, system integration, infra monitoring, cost optimization and CI/CD supports.
+    - Zero P0/P1 system failure since 2021.
+  - others
+    - New-comers recruiting and training, and etc
+    - Achieve Ingka Digital Hub FY23 Star Team Award.
+    - In spare time contribute to some open source projects: [kubeconfig4sa](https://github.com/vbem/kubeconfig4sa) - An CI/CD action linking GitHub with your Kubernetes cluster, [aliyun/ossfs](https://github.com/aliyun/ossfs) - AliCloud official OSS fuse tool, [AIO](https://hub.docker.com/r/vbem/aio) - generic debugging image for DevOps, etc.
 
 ### 2016/10 - 2021/05
 
@@ -111,12 +123,12 @@ During the period of undergraduate, I was awarded the academic and enterprise sc
 
 ## Career Planning
 
-- I expect to become an engineer with great expertise, be amiable among colleagues, reliable on projects and happy in life.
+- I expect to become an architect with great expertise, be amiable among colleagues, reliable on projects and happy in life.
 - My personality-test reports: [PI Behavioral Assessment](/resumes/resources/piba.pdf) / [16Personalities Profile](https://www.16personalities.com/profiles/04fc4a6b967ca) / [Truity MBTI Report](/resumes/resources/Truity-MBTI.pdf) / [Truity Enneagram](/resumes/resources/Truity-Enneagram.pdf)
 
 ## Hobbies
 
-- I have a passion for sports, especially for *Table Tennis*. I served as vice president of Baidu Table Tennis Association. I won the champion of Men's Singles of Baidu Quality in 2011 and 2012. I represented Baidu to win the champion of Shangdi Software Park Group in 2012 and 2013. I ranked the third in [Men’s Singles Competition of SMG Shanghai Media Group](https://mp.weixin.qq.com/s/RFV3O30EYg2ftDJyGFNNhw) in 2017, 2018 and 2019. I won the Men's Singles champion of IKEA China digital hub in 2023.
+- I have a passion for sports, especially for *Table Tennis*. I served as vice president of Baidu Table Tennis Association. I won the champion of Men's Singles of Baidu Quality in 2011 and 2012. I represented Baidu to win the champion of Shangdi Software Park Group in 2012 and 2013. I ranked the third in [Men’s Singles Competition of SMG Shanghai Media Group](https://mp.weixin.qq.com/s/RFV3O30EYg2ftDJyGFNNhw) in 2017, 2018 and 2019. I won the [Men's Singles champion](/resumes/resources/ingka-cdh-man-single-champion.jpg) of IKEA China digital hub in 2023.
 
 ----------
 
