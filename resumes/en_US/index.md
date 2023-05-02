@@ -13,6 +13,7 @@
   - Deep understanding on enterprise digital-transformation unto public clouds in best practice. As well as solid experiences on multi-cloud strategy, cloud governance, cloud billing, cost optimization and cooperation with cloud providers.
   - Deep understanding on AWS Cloud, certified as [AWS Certified Solutions Architect (Professional)](/resumes/resources/AWS-Certified-Solutions-Architect-Professional-certificate-lilei.pdf), [AWS Certified Solutions Architect (Associate)](/resumes/resources/AWS-Certified-Solutions-Architect-Associate-certificate-lilei.pdf), and [AWS Certified SysOps Administrator (Associate)](/resumes/resources/AWS-Certified-SysOps-Administrator-Associate-certificate-lilei.pdf). Experiences on achieving the enterprise-level AWS partner qualification.
   - Deep understanding on Ali-Cloud since 2013, certified as [AliCloud Certified Cloud Computing Engineer (Professional)](https://www.lilei.tech/resumes/resources/Alibaba-Cloud-Certified-Professional-lilei.jpg).
+  - Experiences on Tecent Cloud, Huawei Cloud and Azure CN Cloud (21vianet).
 - DevOps:
   - Solid experience on [introducing DevOps to an enterprise from 0 to 1](http://blog.daocloud.io/cusstory-dongming/). Practical experience on building engineering  efficiency platforms for an enterprise from scratch (GitLab, GitHub, Jira, Confluence, Nexus, Docker-Registries, ArgoCD, etc.).
   - Deep understanding both on principles and hands-on works of DevOps, practical experiences on achieving CI/CD as code and K8S containerization, under multi-clouds (AWS & Ali-Cloud), multi-teams and multi-deployment-environments scenarios.
@@ -50,7 +51,7 @@
     - For 5 projects on AliCloud, built complete and unified infrastructure change, system integration, infra monitoring, cost optimization and CI/CD supports.
     - Zero P0/P1 system failure since 2021.
   - others
-    - New-comers recruiting and training, and etc
+    - New-comers recruiting and training, and etc.
     - Achieve Ingka Digital Hub FY23 Star Team Award.
     - In spare time contribute to some open source projects: [kubeconfig4sa](https://github.com/vbem/kubeconfig4sa) - An CI/CD action linking GitHub with your Kubernetes cluster, [aliyun/ossfs](https://github.com/aliyun/ossfs) - AliCloud official OSS fuse tool, [AIO](https://hub.docker.com/r/vbem/aio) - generic debugging image for DevOps, etc.
 
