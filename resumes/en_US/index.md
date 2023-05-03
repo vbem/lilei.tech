@@ -6,14 +6,14 @@
 
 ## Summary
 
-- 10+ years' egineering experience in top China and global companies of Internet, e-commerce, new-media, and retails.
-- Deep understanding of enterprise digital-transformation, with solid experience on Cloud, DevOps, Kubernetes landing in traditional enterprise from scratch.
+- 10+ years' engineering experience in top China and global companies of Internet, e-commerce, new-media, and retails.
+- Deep understanding of enterprise digital transformation, with solid experience on Cloud, DevOps, Kubernetes landing in traditional enterprise from scratch.
 - Being proficient in cloud computing, DevOps, Kubernetes, software development and team management, from hands-on to architecture design.
 - Cloud:
-  - Deep understanding on enterprise digital-transformation unto public clouds in best practice. As well as solid experiences on multi-cloud strategy, cloud governance, cloud billing, cost optimization and cooperation with cloud providers.
+  - Deep understanding on enterprise digital transformation unto public clouds in best practice. As well as solid experiences on multi-cloud strategy, cloud governance, cloud billing, cost optimization and cooperation with cloud providers.
   - Deep understanding on AWS Cloud, certified as [AWS Certified Solutions Architect (Professional)](/resumes/resources/AWS-Certified-Solutions-Architect-Professional-certificate-lilei.pdf), [AWS Certified Solutions Architect (Associate)](/resumes/resources/AWS-Certified-Solutions-Architect-Associate-certificate-lilei.pdf), and [AWS Certified SysOps Administrator (Associate)](/resumes/resources/AWS-Certified-SysOps-Administrator-Associate-certificate-lilei.pdf). Experiences on achieving the enterprise-level AWS partner qualification.
   - Deep understanding on Ali-Cloud since 2013, certified as [AliCloud Certified Cloud Computing Engineer (Professional)](https://www.lilei.tech/resumes/resources/Alibaba-Cloud-Certified-Professional-lilei.jpg).
-  - Experiences on Tecent Cloud, Huawei Cloud and Azure CN Cloud (21vianet).
+  - Experiences on Tencent Cloud, Huawei Cloud and Azure CN Cloud (21vianet).
 - DevOps:
   - Solid experience on [introducing DevOps to an enterprise from 0 to 1](http://blog.daocloud.io/cusstory-dongming/). Practical experience on building engineering  efficiency platforms for an enterprise from scratch (GitLab, GitHub, Jira, Confluence, Nexus, Docker-Registries, ArgoCD, etc.).
   - Deep understanding both on principles and hands-on works of DevOps, practical experiences on achieving CI/CD as code and K8S containerization, under multi-clouds (AWS & Ali-Cloud), multi-teams and multi-deployment-environments scenarios.
@@ -38,12 +38,12 @@
 - Responsibilities & achievements:
   - *Solution Architect*
     - From 0 to 1, design and land standard CN clouds on-boarding workflow and AliCloud best practice guidelines for Ingka Group. Navigate dozens of projects' AliCloud setup in the right way.
-    - As virtual lead of cloud billing team, established an automatic bills splitting workflow and modules from 0 to 1, apply to all Ingka CN cloud accounts.
+    - As virtual lead of cloud billing team established an automatic bills splitting workflow and modules from 0 to 1, apply to all Ingka CN cloud accounts.
     - As cloud architect and important participant, be responsible for China multi-cloud strategy and coordinating with multi cloud providers.
     - As an important participant, contribute to China digital disaster recovery project.
   - *Cloud Governance Platforms Developer*
     - Build centralized and distributed SSO solutions for Ingka AliCloud accounts, integrate them with Ingka cloud accounts CMDB (Cloud Portal).
-    - Build centralized JumpServer solution for Ingka China, integrated with Ingka multi-cloud enviroments and security systems.
+    - Build centralized JumpServer solution for Ingka China, integrated with Ingka multi-cloud environments and security systems.
     - Build cloud identities scanning self-service, which generate automatic advisor report for various Ingka cloud accounts.
     - As an important participant, contribute to Ingka China centralized ArgoCD service.
   - *SRE Leader*
@@ -51,14 +51,14 @@
     - For 5 projects on AliCloud, built complete and unified infrastructure change, system integration, infra monitoring, cost optimization and CI/CD supports.
     - Zero P0/P1 system failure since 2021.
   - others
-    - New-comers recruiting and training, and etc.
+    - Newcomers recruiting and training, and etc.
     - Achieve Ingka Digital Hub FY23 Star Team Award.
     - In spare time contribute to some open source projects: [kubeconfig4sa](https://github.com/vbem/kubeconfig4sa) - An CI/CD action linking GitHub with your Kubernetes cluster, [aliyun/ossfs](https://github.com/aliyun/ossfs) - AliCloud official OSS fuse tool, [AIO](https://hub.docker.com/r/vbem/aio) - generic debugging image for DevOps, etc.
 
 ### 2016/10 - 2021/05
 
 - Company: [Oriental Pearl Group Co., Ltd.](https://www.opg.cn/), Shanghai
-- Department: *Cloud Computing Center(Academy) - [Data Service Dept.](https://ds.opg.cn/)*
+- Department: *Cloud Computing Center (Academy) - [Data Service Dept.](https://ds.opg.cn/)*
 - Position: *Sr. Mgr.* (Level-12)
 - Tech-Stack: *AWS*, *AliCloud*, *K8s*, *CI/CD*, etc.
 - Responsibilities & achievements:
@@ -66,7 +66,7 @@
   - As a part of Digital Transformation, [introduce DevOps to this enterprise](http://blog.daocloud.io/cusstory-dongming/) from scratch. Build the enterprise-level DevOps chain (GitLab, Jira, Confluence, Nexus, Docker-Registry, GitLab-Runner, Apollo-Config-Server etc.). Define and optimize and spread DevOps workflow for several Dev teams.
   - Land several systems on Ali-Cloud and realize their containerization in K8s with end-to-end CI/CD automation.
   - Lead a small back-end Dev team, promote the transformation of micro-service. As well as lead a big-data platform team to achieve the tech standard of data gathering, construction of data lake, development of client-side SDK, achieving unified data lake for multiple subsidiaries in this enterprise.
-  - Drive [open-source](https://github.com/opgcn) of partial general components of this enterprise.
+  - Drive [open source](https://github.com/opgcn) of partial general components of this enterprise.
   - As the Sr. Manager role, I am also responsible for the overall technical architecture designing, core module development, cross-teams technical communication, new technology research, tech specification landing, recruitment & training, task decomposition, KPI assessment of engineers and other related works.
   - Achievements: President Award of Oriental Pearl Group in 2018. [Science Progress Award](/resumes/resources/Science-Progress-Award.jpg) of China Television Technology Academy in 2019. Promotion from Sr. Engineer to Manager to Sr. Manager within 4 years in a traditional government-owned enterprise, all by personal working ability.
 
