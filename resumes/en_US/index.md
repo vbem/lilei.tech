@@ -38,7 +38,7 @@
 - Responsibilities & achievements:
   - *Solution Architect*
     - From 0 to 1, design and land standard CN clouds on-boarding workflow and AliCloud best practice guidelines for Ingka Group. Navigate dozens of projects' AliCloud setup in the right way.
-    - As virtual lead of cloud billing team established an automatic bills splitting workflow and modules from 0 to 1, apply to all Ingka CN cloud accounts.
+    - As virtual lead of cloud billing team established an automatic bill splitting workflow and modules from 0 to 1, apply to all Ingka CN cloud accounts.
     - As cloud architect and important participant, be responsible for China multi-cloud strategy and coordinating with multi cloud providers.
     - As an important participant, contribute to China digital disaster recovery project.
   - *Cloud Governance Platforms Developer*
@@ -51,7 +51,7 @@
     - For 5 projects on AliCloud, built complete and unified infrastructure change, system integration, infra monitoring, cost optimization and CI/CD supports.
     - Zero P0/P1 system failure since 2021.
   - others
-    - Newcomers recruiting and training, and etc.
+    - Newcomers recruiting and training, etc.
     - Achieve Ingka Digital Hub FY23 Star Team Award.
     - In spare time contribute to some open source projects: [kubeconfig4sa](https://github.com/vbem/kubeconfig4sa) - An CI/CD action linking GitHub with your Kubernetes cluster, [aliyun/ossfs](https://github.com/aliyun/ossfs) - AliCloud official OSS fuse tool, [AIO](https://hub.docker.com/r/vbem/aio) - generic debugging image for DevOps, etc.
 
