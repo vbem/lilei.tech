@@ -2,11 +2,11 @@
 
 | Photo | Basic Info. |
 | :-: | :-: |
-| ![avatar][base64avatar] | *Tel*: [+86-173-1235-0801](/img/vcard.png)<br/>*E-mail*: i@lilei.tech<br/>*WeChat*: [stdlib](/img/wechat.png)<br/>Master of Engineering<br/>On Job in Shanghai<br/>10+ years' experience on Cloud / DevOps / R&D / Management<br/>*Expected Role*: Solution Architect<br/>*Tech Directions*: Cloud / DevOps / Kubernetes / Application |
+| ![avatar][base64avatar] | *Tel*: [+86-173-1235-0801](/img/vcard.png)<br/>*E-mail*: i@lilei.tech<br/>*WeChat*: [stdlib](/img/wechat.png)<br/>Master of Engineering<br/>On Job in Shanghai<br/>12+ years' experience on Cloud / DevOps / R&D / Management<br/>*Expected Role*: Solution Architect<br/>*Tech Directions*: Cloud / DevOps / Kubernetes / Application |
 
 ## Summary
 
-- 10+ years' engineering experience in top China and global companies of Internet, e-commerce, new-media, and retails.
+- 12+ years' engineering experience in top China and global companies of Internet, e-commerce, new-media, and retails.
 - Deep understanding of enterprise digital transformation, with solid experience on Cloud, DevOps, Kubernetes landing in traditional enterprise from scratch.
 - Being proficient in cloud computing, DevOps, Kubernetes, software development and team management, from hands-on to architecture design.
 - Cloud:
