@@ -29,7 +29,7 @@
 
 ## Work Experiences
 
-### 2021/05 - Now
+### 2021/05 - Now (permanent contract)
 
 - Company: [Ingka Group, IKEA (China) Investment Co., Ltd.](https://www.ikea.cn/), Shanghai
 - Department: *Cloud Center of Excellence - China Dept.*
@@ -39,7 +39,7 @@
   - *Solution Architect*
     - From 0 to 1, design and land standard CN clouds on-boarding workflow and AliCloud best practice guidelines for Ingka Group. Navigate dozens of projects' AliCloud setup in the right way.
     - As virtual lead of cloud billing team established an automatic bill splitting workflow and modules from 0 to 1, apply to all Ingka CN cloud accounts.
-    - As cloud architect and important participant, be responsible for China multi-cloud strategy and coordinating with multi cloud providers.
+    - As cloud architect and important participant, be responsible for China cloud strategy and coordinating with multi cloud providers.
     - As an important participant, contribute to China digital disaster recovery project.
   - *Cloud Governance Platforms Developer*
     - Build centralized and distributed SSO solutions for Ingka AliCloud accounts, integrate them with Ingka cloud accounts CMDB (Cloud Portal).
@@ -53,7 +53,7 @@
   - others
     - Newcomers recruiting and training, etc.
     - Achieve Ingka Digital Hub FY23 Star Team Award.
-    - In spare time contribute to some open source projects: [kubeconfig4sa](https://github.com/vbem/kubeconfig4sa) - An CI/CD action linking GitHub with your Kubernetes cluster, [aliyun/ossfs](https://github.com/aliyun/ossfs) - AliCloud official OSS fuse tool, [AIO](https://hub.docker.com/r/vbem/aio) - generic debugging image for DevOps, etc.
+    - In spare time contribute to some open source projects: [multi-runners](https://github.com/vbem/multi-runners) - providing multi self-hosted GitHub action runners on single host, [kubeconfig4sa](https://github.com/vbem/kubeconfig4sa) - An CI/CD action linking GitHub with your Kubernetes cluster, [aliyun/ossfs](https://github.com/aliyun/ossfs/commit/94ea694e9b9be0664b08332d1e0b58cda692585a) - AliCloud official OSS fuse tool, etc.
 
 ### 2016/10 - 2021/05
 
@@ -120,7 +120,7 @@ During the period of postgraduate, I conducted the research and development of C
 
 - 2004/4–2008/6, the [Bachelor of Engineering](/resumes/resources/bachelor-degree.jpg) majored in Communication Engineering in NUPT, ranking within the top 10%.
 
-During the period of undergraduate, I was awarded the academic and enterprise scholarship for many times, and I served as the vice minister of Information Technology Department of University Science & Technology Association Forum, I also participated in the [Open Source Mirror Server](https://mirrors.njupt.edu.cn/) Maintenance, organized the Canonical Ubuntu Campus Promotion Activities, etc. 
+During the period of undergraduate, I was awarded the academic and enterprise scholarship for many times, and I served as the vice minister of Information Technology Department of University Science & Technology Association Forum, I also participated in the [Open Source Mirror Server](https://mirrors.njupt.edu.cn/) Maintenance, organized the Canonical Ubuntu Campus Promotion Activities, etc.
 
 ## Career Planning
 
